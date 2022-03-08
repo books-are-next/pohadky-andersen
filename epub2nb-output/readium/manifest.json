@@ -1,0 +1,371 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Pohádky",
+    "identifier": "26197837-1813-4fb9-b158-2a0d1d3c5366",
+    "author": "Hans Christien Andersen",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2022-03-08T14:31:31.614Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_001.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_002.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_003.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_004.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_005.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_006.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_007.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_008.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_009.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_010.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_011.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_012.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_013.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_014.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_015.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_016.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_017.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_018.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_019.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_020.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_021.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_022.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_023.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_024.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_025.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_026.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_027.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_028.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_029.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_030.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_031.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_032.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_033.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/pohadky_andersen_034.htm"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Upozornění pro čtenáře",
+      "href": "OEBPS/Text/pohadky_andersen_005.htm"
+    },
+    {
+      "title": "Pohádka života",
+      "href": "OEBPS/Text/pohadky_andersen_006.htm"
+    },
+    {
+      "title": "Křesadlo",
+      "href": "OEBPS/Text/pohadky_andersen_007.htm"
+    },
+    {
+      "title": "Slavík",
+      "href": "OEBPS/Text/pohadky_andersen_008.htm"
+    },
+    {
+      "title": "Pastýřka a kominíček",
+      "href": "OEBPS/Text/pohadky_andersen_009.htm"
+    },
+    {
+      "title": "Sněhová královna",
+      "children": [
+        {
+          "title": "První pohádka, v níž se vypravuje o zrcadle a střepinách",
+          "href": "OEBPS/Text/pohadky_andersen_010.htm#sigil_toc_id_1"
+        },
+        {
+          "title": "Druhá pohádka O hošíkovi a děvčátku",
+          "href": "OEBPS/Text/pohadky_andersen_010.htm#sigil_toc_id_2"
+        },
+        {
+          "title": "Třetí pohádka O stařeně, která měla zahradu a uměla čarovat",
+          "href": "OEBPS/Text/pohadky_andersen_010.htm#sigil_toc_id_3"
+        },
+        {
+          "title": "Čtvrtá pohádka O princi a princezně",
+          "href": "OEBPS/Text/pohadky_andersen_010.htm#sigil_toc_id_4"
+        },
+        {
+          "title": "Pátá pohádka O loupežnickém děvčátku",
+          "href": "OEBPS/Text/pohadky_andersen_010.htm#sigil_toc_id_5"
+        },
+        {
+          "title": "Šestá pohádka Laponka a Finka",
+          "href": "OEBPS/Text/pohadky_andersen_010.htm#sigil_toc_id_6"
+        },
+        {
+          "title": "Sedmá pohádka Co se dálo v zámku Sněhové královny a co se přihodilo potom",
+          "href": "OEBPS/Text/pohadky_andersen_010.htm#sigil_toc_id_7"
+        }
+      ],
+      "href": "OEBPS/Text/pohadky_andersen_010.htm"
+    },
+    {
+      "title": "Smrček",
+      "href": "OEBPS/Text/pohadky_andersen_011.htm"
+    },
+    {
+      "title": "Starý dům",
+      "href": "OEBPS/Text/pohadky_andersen_012.htm"
+    },
+    {
+      "title": "Čarovná truhlice",
+      "href": "OEBPS/Text/pohadky_andersen_013.htm"
+    },
+    {
+      "title": "Statečný cínový vojáček",
+      "href": "OEBPS/Text/pohadky_andersen_014.htm"
+    },
+    {
+      "title": "Dva přátelé",
+      "href": "OEBPS/Text/pohadky_andersen_015.htm"
+    },
+    {
+      "title": "Malenka",
+      "href": "OEBPS/Text/pohadky_andersen_016.htm"
+    },
+    {
+      "title": "Bezová matička",
+      "href": "OEBPS/Text/pohadky_andersen_017.htm"
+    },
+    {
+      "title": "Divoké labutě",
+      "href": "OEBPS/Text/pohadky_andersen_018.htm"
+    },
+    {
+      "title": "Sviňáček",
+      "href": "OEBPS/Text/pohadky_andersen_019.htm"
+    },
+    {
+      "title": "Šťastná rodina",
+      "href": "OEBPS/Text/pohadky_andersen_020.htm"
+    },
+    {
+      "title": "Císařovy nové šaty",
+      "href": "OEBPS/Text/pohadky_andersen_021.htm"
+    },
+    {
+      "title": "Ropucha",
+      "href": "OEBPS/Text/pohadky_andersen_022.htm"
+    },
+    {
+      "title": "Uspávač",
+      "children": [
+        {
+          "title": "Pondělí",
+          "href": "OEBPS/Text/pohadky_andersen_023.htm#sigil_toc_id_8"
+        },
+        {
+          "title": "Úterý",
+          "href": "OEBPS/Text/pohadky_andersen_023.htm#sigil_toc_id_9"
+        },
+        {
+          "title": "Středa",
+          "href": "OEBPS/Text/pohadky_andersen_023.htm#sigil_toc_id_10"
+        },
+        {
+          "title": "Čtvrtek",
+          "href": "OEBPS/Text/pohadky_andersen_023.htm#sigil_toc_id_11"
+        },
+        {
+          "title": "Pátek",
+          "href": "OEBPS/Text/pohadky_andersen_023.htm#sigil_toc_id_12"
+        },
+        {
+          "title": "Sobota",
+          "href": "OEBPS/Text/pohadky_andersen_023.htm#sigil_toc_id_13"
+        },
+        {
+          "title": "Neděle",
+          "href": "OEBPS/Text/pohadky_andersen_023.htm#sigil_toc_id_14"
+        }
+      ],
+      "href": "OEBPS/Text/pohadky_andersen_023.htm"
+    },
+    {
+      "title": "Mořská ženka",
+      "href": "OEBPS/Text/pohadky_andersen_024.htm"
+    },
+    {
+      "title": "Hloupý Honza",
+      "href": "OEBPS/Text/pohadky_andersen_025.htm"
+    },
+    {
+      "title": "O princezně na hrášku",
+      "href": "OEBPS/Text/pohadky_andersen_026.htm"
+    },
+    {
+      "title": "Ošklivé kačátko",
+      "href": "OEBPS/Text/pohadky_andersen_027.htm"
+    },
+    {
+      "title": "Stříbrňák",
+      "href": "OEBPS/Text/pohadky_andersen_028.htm"
+    },
+    {
+      "title": "Kdo skočí nejvýš",
+      "href": "OEBPS/Text/pohadky_andersen_029.htm"
+    },
+    {
+      "title": "Pět hrášků v jednom lusku",
+      "href": "OEBPS/Text/pohadky_andersen_030.htm"
+    },
+    {
+      "title": "Pokladnička",
+      "href": "OEBPS/Text/pohadky_andersen_031.htm"
+    },
+    {
+      "title": "Helenčiny květiny",
+      "href": "OEBPS/Text/pohadky_andersen_032.htm"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/pohadky_andersen_033.htm"
+    }
+  ]
+}

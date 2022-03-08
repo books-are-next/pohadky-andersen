@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="26197837-1813-4fb9-b158-2a0d1d3c5366" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Pohádky</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Upozornění pro čtenáře</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_005.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Pohádka života</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_006.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Křesadlo</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_007.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Slavík</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_008.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Pastýřka a kominíček</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_009.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Sněhová královna</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_010.htm"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>První pohádka, v níž se vypravuje o zrcadle a střepinách</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_010.htm#sigil_toc_id_1"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Druhá pohádka O hošíkovi a děvčátku</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_010.htm#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Třetí pohádka O stařeně, která měla zahradu a uměla čarovat</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_010.htm#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Čtvrtá pohádka O princi a princezně</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_010.htm#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Pátá pohádka O loupežnickém děvčátku</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_010.htm#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Šestá pohádka Laponka a Finka</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_010.htm#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Sedmá pohádka Co se dálo v zámku Sněhové královny a co se přihodilo potom</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_010.htm#sigil_toc_id_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Smrček</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_011.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Starý dům</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_012.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Čarovná truhlice</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_013.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Statečný cínový vojáček</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_014.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Dva přátelé</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_015.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Malenka</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_016.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Bezová matička</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_017.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Divoké labutě</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_018.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Sviňáček</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_019.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Šťastná rodina</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_020.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Císařovy nové šaty</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_021.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Ropucha</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_022.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Uspávač</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_023.htm"/>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Pondělí</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_023.htm#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Úterý</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_023.htm#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Středa</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_023.htm#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Čtvrtek</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_023.htm#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Pátek</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_023.htm#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Sobota</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_023.htm#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Neděle</text>
+        </navLabel>
+        <content src="Text/pohadky_andersen_023.htm#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Mořská ženka</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_024.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Hloupý Honza</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_025.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>O princezně na hrášku</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_026.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Ošklivé kačátko</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_027.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Stříbrňák</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_028.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Kdo skočí nejvýš</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_029.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>Pět hrášků v jednom lusku</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_030.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>Pokladnička</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_031.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>Helenčiny květiny</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_032.htm"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/pohadky_andersen_033.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>
