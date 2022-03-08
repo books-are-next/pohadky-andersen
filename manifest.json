@@ -1,0 +1,708 @@
+{
+  "author": "Hans Christien Andersen",
+  "contenttype": "prose",
+  "identifier": "andersen-pohadky-726904b",
+  "languagecode": "cs",
+  "modified": "2022-03-08T14:31:31.614Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Pohádky",
+  "revision": "726904b",
+  "generatedAt": {
+    "date": "Tue Mar 08 2022 14:48:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1646750899770
+  },
+  "documents": [
+    {
+      "title": "Pohádky",
+      "file": "pohadky_andersen_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pohadky_andersen_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádky",
+      "file": "pohadky_andersen_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "pohadky_andersen_001.html",
+      "next": "pohadky_andersen_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádky",
+      "file": "pohadky_andersen_003.html",
+      "words": 4,
+      "chars": 30,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pohadky_andersen_002.html",
+      "next": "pohadky_andersen_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádky",
+      "file": "pohadky_andersen_004.html",
+      "words": 128,
+      "chars": 932,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 3,
+      "prev": "pohadky_andersen_003.html",
+      "next": "pohadky_andersen_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Upozornění\npro čtenáře  • Pohádky",
+      "file": "pohadky_andersen_005.html",
+      "words": 93,
+      "chars": 624,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 4,
+      "prev": "pohadky_andersen_004.html",
+      "next": "pohadky_andersen_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Upozornění\npro čtenáře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádka\nživota • Pohádky",
+      "file": "pohadky_andersen_006.html",
+      "words": 1010,
+      "chars": 6180,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 5,
+      "prev": "pohadky_andersen_005.html",
+      "next": "pohadky_andersen_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohádka\nživota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Křesadlo • Pohádky",
+      "file": "pohadky_andersen_007.html",
+      "words": 2168,
+      "chars": 12150,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 6,
+      "prev": "pohadky_andersen_006.html",
+      "next": "pohadky_andersen_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Křesadlo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slavík • Pohádky",
+      "file": "pohadky_andersen_008.html",
+      "words": 2828,
+      "chars": 16357,
+      "ideas": 96,
+      "role": "chapter",
+      "order": 7,
+      "prev": "pohadky_andersen_007.html",
+      "next": "pohadky_andersen_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slavík",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pastýřka\na kominíček • Pohádky",
+      "file": "pohadky_andersen_009.html",
+      "words": 1328,
+      "chars": 7693,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 8,
+      "prev": "pohadky_andersen_008.html",
+      "next": "pohadky_andersen_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pastýřka\na kominíček",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sněhová\nkrálovna • Pohádky",
+      "file": "pohadky_andersen_010.html",
+      "words": 9315,
+      "chars": 53470,
+      "ideas": 318,
+      "role": "chapter",
+      "order": 9,
+      "prev": "pohadky_andersen_009.html",
+      "next": "pohadky_andersen_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sněhová\nkrálovna",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smrček • Pohádky",
+      "file": "pohadky_andersen_011.html",
+      "words": 2533,
+      "chars": 14374,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 10,
+      "prev": "pohadky_andersen_010.html",
+      "next": "pohadky_andersen_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smrček",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Starý\ndům • Pohádky",
+      "file": "pohadky_andersen_012.html",
+      "words": 2193,
+      "chars": 12795,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 11,
+      "prev": "pohadky_andersen_011.html",
+      "next": "pohadky_andersen_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Starý\ndům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čarovná\ntruhlice • Pohádky",
+      "file": "pohadky_andersen_013.html",
+      "words": 1676,
+      "chars": 9631,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 12,
+      "prev": "pohadky_andersen_012.html",
+      "next": "pohadky_andersen_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čarovná\ntruhlice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Statečný\ncínový vojáček • Pohádky",
+      "file": "pohadky_andersen_014.html",
+      "words": 1318,
+      "chars": 7582,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 13,
+      "prev": "pohadky_andersen_013.html",
+      "next": "pohadky_andersen_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Statečný\ncínový vojáček",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dva\npřátelé • Pohádky",
+      "file": "pohadky_andersen_015.html",
+      "words": 5633,
+      "chars": 32352,
+      "ideas": 136,
+      "role": "chapter",
+      "order": 14,
+      "prev": "pohadky_andersen_014.html",
+      "next": "pohadky_andersen_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dva\npřátelé",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malenka • Pohádky",
+      "file": "pohadky_andersen_016.html",
+      "words": 3332,
+      "chars": 19382,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 15,
+      "prev": "pohadky_andersen_015.html",
+      "next": "pohadky_andersen_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malenka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bezová\nmatička • Pohádky",
+      "file": "pohadky_andersen_017.html",
+      "words": 2394,
+      "chars": 13655,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 16,
+      "prev": "pohadky_andersen_016.html",
+      "next": "pohadky_andersen_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bezová\nmatička",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Divoké\nlabutě • Pohádky",
+      "file": "pohadky_andersen_018.html",
+      "words": 4784,
+      "chars": 28014,
+      "ideas": 117,
+      "role": "chapter",
+      "order": 17,
+      "prev": "pohadky_andersen_017.html",
+      "next": "pohadky_andersen_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Divoké\nlabutě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sviňáček • Pohádky",
+      "file": "pohadky_andersen_019.html",
+      "words": 1203,
+      "chars": 7117,
+      "ideas": 82,
+      "role": "chapter",
+      "order": 18,
+      "prev": "pohadky_andersen_018.html",
+      "next": "pohadky_andersen_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sviňáček",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šťastná\nrodina • Pohádky",
+      "file": "pohadky_andersen_020.html",
+      "words": 1007,
+      "chars": 5878,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 19,
+      "prev": "pohadky_andersen_019.html",
+      "next": "pohadky_andersen_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šťastná\nrodina",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Císařovy\nnové šaty • Pohádky",
+      "file": "pohadky_andersen_021.html",
+      "words": 1330,
+      "chars": 7724,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 20,
+      "prev": "pohadky_andersen_020.html",
+      "next": "pohadky_andersen_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Císařovy\nnové šaty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ropucha • Pohádky",
+      "file": "pohadky_andersen_022.html",
+      "words": 2039,
+      "chars": 11652,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 21,
+      "prev": "pohadky_andersen_021.html",
+      "next": "pohadky_andersen_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ropucha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Uspávač • Pohádky",
+      "file": "pohadky_andersen_023.html",
+      "words": 3019,
+      "chars": 17554,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 22,
+      "prev": "pohadky_andersen_022.html",
+      "next": "pohadky_andersen_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Uspávač",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mořská\nženka • Pohádky",
+      "file": "pohadky_andersen_024.html",
+      "words": 7170,
+      "chars": 41894,
+      "ideas": 156,
+      "role": "chapter",
+      "order": 23,
+      "prev": "pohadky_andersen_023.html",
+      "next": "pohadky_andersen_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mořská\nženka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hloupý\nHonza • Pohádky",
+      "file": "pohadky_andersen_025.html",
+      "words": 1062,
+      "chars": 6031,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 24,
+      "prev": "pohadky_andersen_024.html",
+      "next": "pohadky_andersen_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hloupý\nHonza",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O\nprincezně na hrášku • Pohádky",
+      "file": "pohadky_andersen_026.html",
+      "words": 291,
+      "chars": 1695,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 25,
+      "prev": "pohadky_andersen_025.html",
+      "next": "pohadky_andersen_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O\nprincezně na hrášku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ošklivé\nkačátko • Pohádky",
+      "file": "pohadky_andersen_027.html",
+      "words": 2828,
+      "chars": 16259,
+      "ideas": 104,
+      "role": "chapter",
+      "order": 26,
+      "prev": "pohadky_andersen_026.html",
+      "next": "pohadky_andersen_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ošklivé\nkačátko",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stříbrňák • Pohádky",
+      "file": "pohadky_andersen_028.html",
+      "words": 1232,
+      "chars": 6945,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 27,
+      "prev": "pohadky_andersen_027.html",
+      "next": "pohadky_andersen_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stříbrňák",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kdo\nskočí nejvýš • Pohádky",
+      "file": "pohadky_andersen_029.html",
+      "words": 536,
+      "chars": 3015,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 28,
+      "prev": "pohadky_andersen_028.html",
+      "next": "pohadky_andersen_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kdo\nskočí nejvýš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pět\nhrášků v jednom lusku • Pohádky",
+      "file": "pohadky_andersen_030.html",
+      "words": 940,
+      "chars": 5313,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 29,
+      "prev": "pohadky_andersen_029.html",
+      "next": "pohadky_andersen_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pět\nhrášků v jednom lusku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pokladnička • Pohádky",
+      "file": "pohadky_andersen_031.html",
+      "words": 695,
+      "chars": 3925,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 30,
+      "prev": "pohadky_andersen_030.html",
+      "next": "pohadky_andersen_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokladnička",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Helenčiny\nkvětiny • Pohádky",
+      "file": "pohadky_andersen_032.html",
+      "words": 2254,
+      "chars": 13416,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 31,
+      "prev": "pohadky_andersen_031.html",
+      "next": "pohadky_andersen_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Helenčiny\nkvětiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou • Pohádky",
+      "file": "pohadky_andersen_033.html",
+      "words": 88,
+      "chars": 507,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 32,
+      "prev": "pohadky_andersen_032.html",
+      "next": "pohadky_andersen_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádky",
+      "file": "pohadky_andersen_034.html",
+      "words": 34,
+      "chars": 203,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 33,
+      "prev": "pohadky_andersen_033.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 66470,
+      "chars": 384384,
+      "ideas": 2134
+    },
+    "chapters": {
+      "words": 66465,
+      "chars": 384349,
+      "ideas": 2131
+    }
+  }
+}
