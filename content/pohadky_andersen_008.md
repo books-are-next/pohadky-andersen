@@ -3,6 +3,8 @@ title: Slavík
 contentType: prose
 ---
 
+  
+
 V Číně, jak asi víte, byl kdysi císař Číňan a všichni jeho dvořané byli rovněž Číňané. Je tomu již mnoho a mnoho let, co se přihodil příběh, který budu vypravovat, ale právě proto stojí za poslechnutí, než se na něj úplně zapomene.
 
 Císařův zámek byl nejnádhernější na světě; byl celičký z jemného porcelánu, velmi drahocenného, ale také velmi křehkého, takže všichni musili dávat pozor, aby se ho neopatrně nedotkli. V zámecké zahradě byly přepodivné květiny a na nejkrásnějších byly přivázány stříbrné zvonečky. Ty zvonily, aby nikdo nešel okolo květiny, aniž si jí všiml.

@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Bylo pět hrášků v jednom lusku; byly zelené a i lusk byl zelený, i myslily si, že celý svět je zelený, a to bylo docela správné! Lusk rostl a hrášky rostly a zařizovaly si obydlí podle svého; seděly v jedné řadě.
 
 Slunce svítilo venku a zahřívalo lusk, déšť jej činil průsvitným. Uvnitř bylo vlažno a dobře, světlo ve dne a tma v noci, tak jak tomu má být. A hrášky se zvětšovaly, a jak tu seděly, stále více přemýšlely, neboť něco přece dělat musily.

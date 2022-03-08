@@ -3,6 +3,8 @@ title: Smrček
 contentType: prose
 ---
 
+  
+
 V lese stál hezounký smrček. Měl pěkné místo, slunce ho ozařovalo, vzduchu tam bylo dost a kolem dokola rostlo mnoho jeho velkých družek, jedlí a sosen.
 
 Ale náš smrček měl naspěch se vzrůstem, i nemyslil na teplé slunko a čerstvý vzduch, nevšímal si venkovských dětí, které tudy chodily a švitořily, když si vyšly na jahody nebo na ostružiny; přicházely někdy s plným hrnečkem nebo nabodaly jahody na slámu a potom si sedaly ke smrčku a říkaly:

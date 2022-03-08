@@ -3,6 +3,8 @@ title: Stříbrňák
 contentType: prose
 ---
 
+  
+
 Byl jednou jeden peníz; vyšel lesklý z mincovny, poskakoval si a zpíval: „Sláva! Teď půjdu do širého světa!“
 
 A dostal se tam.

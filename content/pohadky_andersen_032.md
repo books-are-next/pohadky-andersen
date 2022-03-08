@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 „Mé ubohé květiny zhynuly!“ zvolala Helenka. „Ještě včera večer byly tak krásné a nyní visí všechny lístečky zvadlé! Proč to jen udělaly?“ tázala se studenta, který seděl v lenošce. Vážila si ho velice, poněvadž znal nejkrásnější pohádky a vystřihoval tak rozkošné obrázky: srdce s malými žínkami, tančícími uvnitř, květiny a velké zámky, u nichž se otvíraly dveře. Byl to milý student.
 
 „Pročpak vypadají květiny dnes tak uboze?“ ptala se ho Helenka, ukazujíc na kytici, která byla nadobro zvadlá.
@@ -113,4 +115,4 @@ Oba chlapci šli napřed, pušky na ramenou, a Helenka kráčela za nimi, nesouc
 
 Na zahradě vykopali hrobeček. Helenka nejprve políbila květiny, potom je položila i s krabicí do země a Josef a Jan stříleli nad hrobem z pušek, protože neměli děla.
 
-Konec
+**Konec**

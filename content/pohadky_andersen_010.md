@@ -5,9 +5,9 @@ title: |-
 contentType: prose
 ---
 
-Sedm pohádek
+* * *
 
-### První pohádka,  
+## První pohádka,  
 v níž se vypravuje o zrcadle a střepinách
 
 Tak poslyšte, teď začneme! Až budeme na konci pohádky, budeme vědět víc, než víme nyní.
@@ -26,8 +26,10 @@ A ještě posud létají střepinky toho zrcadla vzduchem.
 
 Tak poslyšte! – –
 
-### Druhá pohádka  
+## Druhá pohádka  
 O hošíkovi a děvčátku
+
+  
 
 Ve velkém městě, kde je tolik domů a lidí, že nezbývá dost místa, aby všichni lidé mohli mít zahrádku, a proto se většinou musí spokojit s květinami v květináčích, bydlily dvě chudé děti. Měly dvě zahrádky o něco větší nežli květináče. Nebyli bratr a sestra, ale měli se právě tak rádi, jako by jimi byli. Jejich rodiče bydlili hned vedle sebe ve dvou podkrovních komůrkách, vlastně vikýřích, tam, kde se střechy domů dotýkaly. Od široké římsy běžela napříč mezi oběma okénky sousedních komůrek okapová roura, takže stačilo jenom ji překročit, aby ses dostal po římse od okna k oknu. A římsa byla velmi široká a ohrazená zábradlím.
 
@@ -61,8 +63,8 @@ Příštího dne byl ostrý mráz, potom nastala obleva a pak přišlo jaro. Slu
 
 Růže kvetly toho léta obzvlášť krásně. Děvčátko se naučilo jedné písničce, v níž bylo také o růžích, a tu jí vždy přicházela na mysl její vlastní růže. Zpívala ji také před hochem a pak zpívali spolu:
 
-Vzkvétají růže v údolích,  
-radostné jaro voní v nich!
+> Vzkvétají růže v údolích,  
+> radostné jaro voní v nich!
 
 A obě děti se držely za ruce, líbaly růže a dívaly se do jasného božího slunéčka a hovořily k němu.
 
@@ -130,8 +132,10 @@ Kaj se na ni podíval. Byla velmi krásná; nedovedl si představit moudřejší
 
 Letěli přes lesy a jezera, přes moře a země. Dole pod nimi burácel chladný vítr, vlci vyli a sníh se leskl a nad nimi letěly černé, křičící vrány. Ale nahoře nade vším svítil měsíc, velký a jasný, a na něj se díval Kaj celou tu dlouhou, dlouhou zimní noc. Ve dne spal u nohou Sněhové královny. – –
 
-### Třetí pohádka  
+## Třetí pohádka  
 O stařeně, která měla zahradu a uměla čarovat
+
+  
 
 Ale jak se dařilo malé Gerdě, když se Kaj nevracel? A kdepak byl asi Kaj? Nikdo nevěděl, nikdo to nedovedl vysvětlit. Chlapci jenom vypravovali, že ho viděli, jak si přivazuje sáňky k velkým, nádherným saním, které jely do ulice a branou ven. Nikdo nevěděl, kde je, mnoho slziček se uronilo a malá Gerda plakala upřímně a dlouho. Potom řekli, že je asi mrtev, že se utopil v řece, která tekla okolo města. Ó, to byly velmi dlouhé, temné zimní dny!
 
@@ -273,8 +277,10 @@ Vstala rychle a vydala se na cestu.
 
 Ó, jak šedý a smutný se jí zdál širý svět! – –
 
-### Čtvrtá pohádka  
+## Čtvrtá pohádka  
 O princi a princezně
+
+  
 
 Gerda si musila zase odpočinout. Po sněhu, hned proti místu, kde ona seděla, poskakovala velká vrána. Seděla tu již dlouho, dívala se na Gerdu a pokyvovala hlavou. Řekla: „Krá! Krá! – Dobrý den! Dobrý den!“
 
@@ -392,8 +398,10 @@ Lesní vrána, která se zatím provdala, doprovázela ji prvé tři míle cesty
 
 Tak to šlo prvé míle. Tu se také vrána rozloučila s Gerdou, a to bylo nejtěžší loučení. Vylétla na strom a mávala černými křídly, dokud viděla kočárek, který se leskl jako jasná sluneční záře.
 
-### Pátá pohádka  
+## Pátá pohádka  
 O loupežnickém děvčátku
+
+  
 
 Cesta vedla tmavým lesem, ale kočárek zářil jako plamen. Najednou se z lesa vyrojili loupežníci. Zář kočárku jim padala do obličeje, až zrak přecházel.
 
@@ -501,8 +509,10 @@ I běžel ještě rychleji, ve dne v noci.
 
 Chléb již byl sněden a šunka také, když se dostali do Laponska. – –
 
-### Šestá pohádka  
+## Šestá pohádka  
 Laponka a Finka
+
+  
 
 Zastavili se před náramně chatrným domem. Střecha mu sahala až k zemi a dveře měl tak nízké, že chtěl-li někdo ven nebo dovnitř, musil lézt po břiše.
 
@@ -548,9 +558,11 @@ I začala se malá Gerda modlit. Bylo zima, že viděla svůj dech, vycházejíc
 
 Ale nyní se nejdříve podíváme, jak se dařilo Kajovi. Nemyslil vůbec na malou Gerdu, a tím méně tušil, že ona stojí před zámkem.
 
-### Sedmá pohádka  
+## Sedmá pohádka  
 Co se dálo v zámku Sněhové královny  
 a co se přihodilo potom
+
+  
 
 Stěny zámku byly z poletujícího sněhu a okna a dveře z řezavého větru. Bylo tu na sta sálů, všechny tak, jak je sníh navál. Největší se táhl na mnoho mil. Všechny byly osvětleny severní září a byly náramně velké, ale prázdné a ledově chladné a zářivé. Nikdy sem nepřišlo ani tolik veselí, jako bývá na plese medvědů, když jim vichr k tomu hraje a ledoví medvědi chodí po zadních nohách a chovají se vybraně. Nikdy se tu nekonaly hry se zástavami a vyplácením; ba nebyly tu ani kávové schůzky bílých liščích slečinek. Prázdno a zima bylo ve velkých sálech Sněhové královny. Severní záře svítila tak pravidelně, že bys mohl vypočítat, kdy bude svítit nejvíc a kdy nejméně.
 
@@ -578,8 +590,8 @@ Vtom právě vešla Gerda do zámku velkou branou z řezavých větrů. Ale ona 
 
 Ale on seděl úplně tiše, strnulý a chladný. I vytryskly Gerdě horké slzy. Padaly mu na prsa, pronikly až k srdci, roztavily rampouch a strávily střepinu zrcadla uvnitř. Kaj se na ni podíval a ona zpívala píseň:
 
-Vzkvétají růže v údolích,  
-radostné jaro voní v nich.
+> Vzkvétají růže v údolích,  
+> radostné jaro voní v nich.
 
 Tu vypukl Kaj v pláč. Plakal, až mu střepinka skla vypadla z oka, poznal Gerdu a jásal:
 
@@ -619,8 +631,8 @@ Babička seděla v záři božího sluníčka a četla hlasitě z bible.
 
 A Kaj a Gerda se dívali sobě navzájem do očí a náhle porozuměli staré písni:
 
-Vzkvétají růže v údolích,  
-radostné jaro voní v nich.
+> Vzkvétají růže v údolích,  
+> radostné jaro voní v nich.
 
 I seděli tu oba dorostlí, a přece děti, děti srdcem.
 

@@ -3,6 +3,8 @@ title: Pokladnička
 contentType: prose
 ---
 
+  
+
 V dětském pokoji bylo velmi mnoho hraček. Na skříni stála pokladnička, byla hliněná a měla podobu prasátka. Měla ovšem nahoře otvor a ten otvor byl nožem ještě zvětšen, aby se tam mohly strkat také velké stříbrné peníze.
 
 Dostaly se tam dva a kromě toho mnoho jiných drobných mincí. Pokladnička byla jimi tak naplněna, že již ani nezvonily, když jsi jí zatřásl, a to bylo to nejvyšší, kam až to může pokladnička vůbec přivést.

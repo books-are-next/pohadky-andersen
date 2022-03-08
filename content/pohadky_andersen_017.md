@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Byl jednou jeden hoch a ten se nastudil; přišel jednou domů s mokrýma nohama a nikdo nemohl pochopit, kde tak namokl, když přece bylo všude sucho a krásné počasí. Maminka ho odstrojila, uložila do postele a dala přinést samovar, aby mu připravila koflík dobrého bezového odvaru pro zahřátí.
 
 Vtom vešel do dveří starý, přívětivý muž, který bydlel až docela nahoře v domě a žil sám, nemaje ani ženu, ani děti; avšak měl velmi rád všecky děti a uměl jim vypravovat pohádek a povídek, až radost.

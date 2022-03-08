@@ -3,6 +3,8 @@ title: Ropucha
 contentType: prose
 ---
 
+  
+
 Studna byla hluboká, proto musilo být také lano na vytahování vody hodně dlouhé. Když přehazovali okov s vodou přes roubení studny, hřídel se těžce otáčel. Slunce se nikdy nedostalo tak hluboko, aby se zrcadlilo ve vodě, třeba byla sebečistší, ale kam až dosvitlo, všude vyrůstala zeleň mezi kameny.
 
 V studni bydlila rodina ropuch: byli to přistěhovalci a dostali se sem vlastně střemhlav se starou ropuší matkou, která dosud žila. Zelené žáby, které se zde usadily mnohem dříve a plavaly ve vodě, poznaly své příbuzenstvo a nazývaly je „studničními hosty“.

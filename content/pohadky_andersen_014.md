@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Bylo jednou dvacet pět cínových vojáčků. Všichni byli bratři, neboť byli uliti z jedné staré lžíce. Zbraň drželi v ruce, hlavu čelem vpřed; stejnokroj měli červený a modrý, inu, náramně krásný.
 
 Prvé, co slyšeli na tomto světě, když bylo sejmuto víko s krabice, v níž leželi, bylo zvolání: „Cínoví vojáčkové!“ Volal tak malý chlapec a tleskal rukama. Dostal je, protože byly dnes jeho narozeniny, i stavěl je na stůl.
@@ -65,8 +67,8 @@ Již ani nebyl téměř s to, aby se udržel vstoje. Loďka plula dál a ubohý
 
 Loďka se otočila třikrát čtyřikrát a naplnila se vodou až po okraj; musela se potopit. Cínový vojáček stál ve vodě až po krk a loďka klesala hlouběji a hlouběji. Papír se stále více uvolňoval. Již přesahovala voda vojáčkovi přes hlavu – tu vzpomínal na malou rozkošnou tanečnici, kterou již nikdy nespatří. V uších mu zněla píseň:
 
-„Jen pluj, jen pluj, můj vojáčku,  
-smrt na tebe čeká!“
+> „Jen pluj, jen pluj, můj vojáčku,  
+> smrt na tebe čeká!“
 
 Vtom se papír roztrhl a voják se zřítil dolů. Ale hned jej polkla velká ryba.
 

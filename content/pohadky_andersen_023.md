@@ -3,13 +3,17 @@ title: Uspávač
 contentType: prose
 ---
 
+  
+
 Na celém světě nezná nikdo tolik pohádek jako Uspávač. Takhle kvečeru, když děti ještě sedí u stolu nebo na své židličce, přicházívá Uspávač; jde tiše po schodech, jde po špičkách, otevře docela tiše dveře a hop! šup! vstříkne dětem do očí sladkého mléka, docela jemňounkého. Ale děti potom již neudrží oči otevřeny, i nespatří ho. Pak se odplíží za ně, fouká jim za krček a tu jim hlava ztěžkne, ó jak je pak těžká! Ale nebolí to, neboť Uspávač to míní s dětmi docela dobře; on jenom chce, aby se utišily, a ony bývají nejhodnější, když jsou v postýlce. Musí být tiché, aby on mohl vypravovat své pohádky. –
 
 Když pak děti spí, posadí se Uspávač na postýlku. Je hezky oblečen; má hedvábný kabát, ale není možno říci, jaké je barvy, neboť hraje do zelena, do červena a do modra, podle toho, kam se obrátí. Pod každým ramenem drží deštník, jeden pomalovaný obrázky, a ten rozvírá nad dobrými dětmi, takže se jim zdají celou noc nejkrásnější pohádky. Druhý deštník není pomalovaný, a ten staví nad nezpůsobné děti, takže spí neklidně a ráno, když se probudí, nemohou si vzpomenout ani na jediný sen.
 
 Nyní poslyšte, jak Uspávač celý týden přicházel každého večera k jednomu chlapečkovi, kterému říkali Jeníček, a co mu vypravoval. Je to sedm pohádek, poněvadž týden má sedm dní.
 
-### Pondělí
+## Pondělí
+
+  
 
 „Tak se podívej!“ řekl Uspávač večer, když dostal Jeníčka do postýlky. „Teď ti něco krásného ukáži!“
 
@@ -37,7 +41,9 @@ I cvičil písmena, až stála tak přímo a hezky, že by tak ani žádný pře
 
 Ale když Uspávač odešel a Jeníček se na ně ráno podíval, byla právě tak ošklivá jako předtím.
 
-### Úterý
+## Úterý
+
+  
 
 Jakmile byl Jeníček v posteli, dotkl se Uspávač svou kouzelnou hůlkou všech kusů nábytku v pokoji a ty hned začaly povídat.
 
@@ -55,18 +61,20 @@ To byla jízda! Hned tu byly lesy, velmi husté a temné, hned zase nejkrásněj
 
 Brzy plul Jeníček velkými lesy, brzy jakoby skrze veliké skály nebo středem města. Také plul tudy, kde bydlela jeho chůva, ta, která jej chovala, když byl ještě docela malým děťátkem, a měla jej velmi ráda. I kývala na něj a zpívala krásnou píseň, kterou sama složila a Jeníčkovi poslala:
 
-„Já vzpomínám na tebe zhusta,  
-ty Jeníčku můj maličký.  
-Tvá líbala jsem drobná ústa,  
-tvé čílko a tvé tvářičky.  
-Já slyšela tvá první slova,  
-když volával jsi maminku.  
-Ta léta chtěla bych žít znova  
-s tebou, můj malý andílku!“
+> „Já vzpomínám na tebe zhusta,  
+> ty Jeníčku můj maličký.  
+> Tvá líbala jsem drobná ústa,  
+> tvé čílko a tvé tvářičky.  
+> Já slyšela tvá první slova,  
+> když volával jsi maminku.  
+> Ta léta chtěla bych žít znova  
+> s tebou, můj malý andílku!“
 
 A všichni ptáci zpívali s ní, květiny tančily na stoncích a staré stromy kývaly, jako by Uspávač také jim vypravoval pohádky.
 
-### Středa
+## Středa
+
+  
 
 Ne, to vám pršelo! Jeníček to slyšel ve spaní, a když Uspávač otevřel okno, sahala voda až k okenní římse. Venku bylo jediné jezero a překrásná loď stála u samého domku.
 
@@ -106,7 +114,9 @@ Ale Jeníček šel do kurníku, otevřel dvířka, zavolal čápa a ten vyskoči
 
 Vtom se probudil a ležel na své postýlce. Byla to podivná cesta, na kterou jej Uspávač pozval na tuto noc.
 
-### Čtvrtek
+## Čtvrtek
+
+  
 
 „Víš co?“ řekl Uspávač. „Nyní se neboj! Uvidíš malou myšku!“ Ukázal mu svou ruku, v níž držel drobné, roztomilé zvířátko.
 
@@ -140,7 +150,9 @@ Všechny myši říkaly, že to byla krásná svatba a že hovor byl velmi pří
 
 A potom jel Jeníček opět domů. Byl ovšem ve vznešené společnosti, ale musel se také hodně scvrknout, udělat se malým a vzít si stejnokroj cínového vojáčka.
 
-### Pátek
+## Pátek
+
+  
 
 „Toť až k nevíře, jak mnoho starších lidí by mě rádo chytilo!“ pravil Uspávač. „Jsou to zvláště ti, kteří udělali něco zlého. ‚Dobrý Uspávači,‘ říkají mně, ‚nemůžeme ani oka zamhouřit, a tak ležíme celou noc a vidíme všechny své zlé skutky, které jako oškliví malí skřítci sedí na okraji postele a postřikují nás horkou vodou. Nechtěl bys přijít a odehnat je, abychom mohli dobře spát?‘ A potom vzdychají zhluboka: ‚My bychom to velmi rádi zaplatili; dobrou noc, Uspávači, peníze leží na okně!‘ Ale já to nedělám za peníze,“ řekl Uspávač.
 
@@ -156,12 +168,12 @@ A Jeníček se podíval na stůl. Tam stál domek z lepenky s osvětlenými okn
 
 Uspávač, oblečen v černou babiččinu zástěru, je oddával. Když bylo po oddavkách, zanotovaly všechny kusy nábytku v pokoji tuto krásnou píseň, kterou složila tužka. Její nápěv zněl jako při čepobití:
 
-„Nechť naše píseň, sladce zníc,  
-snoubenců rozesměje líc,  
-již v pokoji dlí ponejvíc  
-a sešiti jsou z rukavic.  
-\[: Hurrá! Nechť rozesmějem jejich líc!  
-A proto pějme, pějme stále víc!:\]“
+> „Nechť naše píseň, sladce zníc,  
+> snoubenců rozesměje líc,  
+> již v pokoji dlí ponejvíc  
+> a sešiti jsou z rukavic.  
+> \[: Hurrá! Nechť rozesmějem jejich líc!  
+> A proto pějme, pějme stále víc!:\]“
 
 A pak dostávali dary, ale odmítali všechny potraviny, neboť se najedli své lásky.
 
@@ -183,7 +195,9 @@ I žádali o radu vlaštovku, která mnoho cestovala, a starou slepici, která j
 
 A při tom zůstalo.
 
-### Sobota
+## Sobota
+
+  
 
 „Uslyším nyní pohádky?“ ptal se Jeníček, když jej dostal Uspávač do postýlky.
 
@@ -203,7 +217,9 @@ A potom Uspávač odešel a vzal si slunečník s sebou.
 
 A potom se Jeníček probudil.
 
-### Neděle
+## Neděle
+
+  
 
 „Dobrý večer!“ řekl Uspávač a Jeníček pozdravil, skočil a obrátil podobiznu pradědečkovu ke zdi, aby nehovořila jako včera.
 
