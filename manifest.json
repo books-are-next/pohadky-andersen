@@ -1,37 +1,17 @@
 {
   "author": "Hans Christien Andersen",
   "contenttype": "prose",
-  "identifier": "andersen-pohadky-726904b",
+  "identifier": "andersen-pohadky-9d84138",
   "languagecode": "cs",
   "modified": "2022-03-08T14:31:31.614Z",
   "publisher": "Městská knihovna v Praze",
   "title": "Pohádky",
-  "revision": "726904b",
+  "revision": "9d84138",
   "generatedAt": {
-    "date": "Tue Mar 08 2022 14:48:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646750899770
+    "date": "Tue Mar 08 2022 15:06:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1646751973228
   },
   "documents": [
-    {
-      "title": "Pohádky",
-      "file": "pohadky_andersen_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "pohadky_andersen_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Pohádky",
       "file": "pohadky_andersen_002.html",
@@ -39,48 +19,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "pohadky_andersen_001.html",
-      "next": "pohadky_andersen_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Pohádky",
-      "file": "pohadky_andersen_003.html",
-      "words": 4,
-      "chars": 30,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "pohadky_andersen_002.html",
-      "next": "pohadky_andersen_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Pohádky",
-      "file": "pohadky_andersen_004.html",
-      "words": 128,
-      "chars": 932,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 3,
-      "prev": "pohadky_andersen_003.html",
+      "order": 0,
+      "prev": null,
       "next": "pohadky_andersen_005.html",
       "toc": [
         {
@@ -99,8 +39,8 @@
       "chars": 624,
       "ideas": 6,
       "role": "chapter",
-      "order": 4,
-      "prev": "pohadky_andersen_004.html",
+      "order": 1,
+      "prev": "pohadky_andersen_002.html",
       "next": "pohadky_andersen_006.html",
       "toc": [
         {
@@ -119,7 +59,7 @@
       "chars": 6180,
       "ideas": 15,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "pohadky_andersen_005.html",
       "next": "pohadky_andersen_007.html",
       "toc": [
@@ -139,7 +79,7 @@
       "chars": 12150,
       "ideas": 78,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "pohadky_andersen_006.html",
       "next": "pohadky_andersen_008.html",
       "toc": [
@@ -159,7 +99,7 @@
       "chars": 16357,
       "ideas": 96,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "pohadky_andersen_007.html",
       "next": "pohadky_andersen_009.html",
       "toc": [
@@ -179,7 +119,7 @@
       "chars": 7693,
       "ideas": 49,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "pohadky_andersen_008.html",
       "next": "pohadky_andersen_010.html",
       "toc": [
@@ -195,11 +135,11 @@
     {
       "title": "Sněhová\nkrálovna • Pohádky",
       "file": "pohadky_andersen_010.html",
-      "words": 9315,
-      "chars": 53470,
-      "ideas": 318,
+      "words": 9313,
+      "chars": 53458,
+      "ideas": 317,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "pohadky_andersen_009.html",
       "next": "pohadky_andersen_011.html",
       "toc": [
@@ -208,7 +148,57 @@
           "level": 1,
           "name": "Sněhová\nkrálovna",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "První pohádka,",
+              "id": "první-pohádka",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Druhá pohádka",
+              "id": "druhá-pohádka",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Třetí pohádka",
+              "id": "třetí-pohádka",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Čtvrtá pohádka",
+              "id": "čtvrtá-pohádka",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Pátá pohádka",
+              "id": "pátá-pohádka",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Šestá pohádka",
+              "id": "šestá-pohádka",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Sedmá pohádka",
+              "id": "sedmá-pohádka",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -219,7 +209,7 @@
       "chars": 14374,
       "ideas": 93,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "pohadky_andersen_010.html",
       "next": "pohadky_andersen_012.html",
       "toc": [
@@ -239,7 +229,7 @@
       "chars": 12795,
       "ideas": 65,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "pohadky_andersen_011.html",
       "next": "pohadky_andersen_013.html",
       "toc": [
@@ -259,7 +249,7 @@
       "chars": 9631,
       "ideas": 59,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "pohadky_andersen_012.html",
       "next": "pohadky_andersen_014.html",
       "toc": [
@@ -279,7 +269,7 @@
       "chars": 7582,
       "ideas": 43,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "pohadky_andersen_013.html",
       "next": "pohadky_andersen_015.html",
       "toc": [
@@ -299,7 +289,7 @@
       "chars": 32352,
       "ideas": 136,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "pohadky_andersen_014.html",
       "next": "pohadky_andersen_016.html",
       "toc": [
@@ -319,7 +309,7 @@
       "chars": 19382,
       "ideas": 99,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "pohadky_andersen_015.html",
       "next": "pohadky_andersen_017.html",
       "toc": [
@@ -339,7 +329,7 @@
       "chars": 13655,
       "ideas": 61,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "pohadky_andersen_016.html",
       "next": "pohadky_andersen_018.html",
       "toc": [
@@ -359,7 +349,7 @@
       "chars": 28014,
       "ideas": 117,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "pohadky_andersen_017.html",
       "next": "pohadky_andersen_019.html",
       "toc": [
@@ -379,7 +369,7 @@
       "chars": 7117,
       "ideas": 82,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "pohadky_andersen_018.html",
       "next": "pohadky_andersen_020.html",
       "toc": [
@@ -399,7 +389,7 @@
       "chars": 5878,
       "ideas": 29,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "pohadky_andersen_019.html",
       "next": "pohadky_andersen_021.html",
       "toc": [
@@ -419,7 +409,7 @@
       "chars": 7724,
       "ideas": 48,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "pohadky_andersen_020.html",
       "next": "pohadky_andersen_022.html",
       "toc": [
@@ -439,7 +429,7 @@
       "chars": 11652,
       "ideas": 75,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "pohadky_andersen_021.html",
       "next": "pohadky_andersen_023.html",
       "toc": [
@@ -459,7 +449,7 @@
       "chars": 17554,
       "ideas": 119,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "pohadky_andersen_022.html",
       "next": "pohadky_andersen_024.html",
       "toc": [
@@ -468,7 +458,57 @@
           "level": 1,
           "name": "Uspávač",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Pondělí",
+              "id": "pondělí",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Úterý",
+              "id": "úterý",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Středa",
+              "id": "středa",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Čtvrtek",
+              "id": "čtvrtek",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "Pátek",
+              "id": "pátek",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "Sobota",
+              "id": "sobota",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "Neděle",
+              "id": "neděle",
+              "children": []
+            }
+          ]
         }
       ]
     },
@@ -479,7 +519,7 @@
       "chars": 41894,
       "ideas": 156,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "pohadky_andersen_023.html",
       "next": "pohadky_andersen_025.html",
       "toc": [
@@ -499,7 +539,7 @@
       "chars": 6031,
       "ideas": 64,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "pohadky_andersen_024.html",
       "next": "pohadky_andersen_026.html",
       "toc": [
@@ -519,7 +559,7 @@
       "chars": 1695,
       "ideas": 14,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "pohadky_andersen_025.html",
       "next": "pohadky_andersen_027.html",
       "toc": [
@@ -539,7 +579,7 @@
       "chars": 16259,
       "ideas": 104,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "pohadky_andersen_026.html",
       "next": "pohadky_andersen_028.html",
       "toc": [
@@ -559,7 +599,7 @@
       "chars": 6945,
       "ideas": 40,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "pohadky_andersen_027.html",
       "next": "pohadky_andersen_029.html",
       "toc": [
@@ -579,7 +619,7 @@
       "chars": 3015,
       "ideas": 21,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "pohadky_andersen_028.html",
       "next": "pohadky_andersen_030.html",
       "toc": [
@@ -599,7 +639,7 @@
       "chars": 5313,
       "ideas": 36,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "pohadky_andersen_029.html",
       "next": "pohadky_andersen_031.html",
       "toc": [
@@ -619,7 +659,7 @@
       "chars": 3925,
       "ideas": 21,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "pohadky_andersen_030.html",
       "next": "pohadky_andersen_032.html",
       "toc": [
@@ -639,7 +679,7 @@
       "chars": 13416,
       "ideas": 57,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "pohadky_andersen_031.html",
       "next": "pohadky_andersen_033.html",
       "toc": [
@@ -659,9 +699,9 @@
       "chars": 507,
       "ideas": 10,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "pohadky_andersen_032.html",
-      "next": "pohadky_andersen_034.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -673,36 +713,52 @@
       ]
     },
     {
-      "title": "Pohádky",
-      "file": "pohadky_andersen_034.html",
-      "words": 34,
-      "chars": 203,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 33,
+      "title": "Tiráž • Pohádky",
+      "file": "colophon.html",
+      "words": 167,
+      "chars": 1170,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
       "prev": "pohadky_andersen_033.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Pohádky",
+              "id": "pohádky",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "Hans Christian Andersen",
+                  "id": "hans-christian-andersen",
+                  "children": []
+                }
+              ]
+            }
+          ]
         }
       ]
     }
   ],
   "totals": {
     "all": {
-      "words": 66470,
-      "chars": 384384,
-      "ideas": 2134
+      "words": 66468,
+      "chars": 384372,
+      "ideas": 2133
     },
     "chapters": {
-      "words": 66465,
-      "chars": 384349,
-      "ideas": 2131
+      "words": 66297,
+      "chars": 383172,
+      "ideas": 2110
     }
   }
 }

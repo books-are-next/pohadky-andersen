@@ -3,6 +3,8 @@ title: Sviňáček
 contentType: prose
 ---
 
+  
+
 Byl jednou chudý, ale náramně chytrý princ. Měl království tuze malé, ale přece dost velké, aby se na to mohl oženit. A on se oženit chtěl.
 
 Byl trochu smělý, a dokonce si troufal říci císařově dceři:
@@ -57,8 +59,8 @@ Ten se však nedal zmást. Pomazal si obličej hnědou a černou barvou, narazil
 
 A tak byl princ přijat za císařského pasáčka vepřů – sviňáčka. Bydlel v chudobné komůrce dole u chlévů. Ale byl celý den venku u prasečího chlívku a na čemsi pracoval. Když byl večer, dohotovil hezounký malý kotlík, na kterém byly kolem dokola samé rolničky. Když se voda v kotlíku vařila, rolničky překrásně zvonily a hrály starou melodii:
 
-„Měl jsem, měl jsem,  
-ale nemám více…“
+> „Měl jsem, měl jsem,  
+> ale nemám více…“
 
 Ale největší umění bylo v tom, že když jsi strčil prst do páry vycházející z kotlíku, mohls hned cítit, jaká jídla se připravují na všech ohništích, co jich bylo v městě. No, tohle bylo přece něco jiného nežli ta růže!
 
@@ -88,8 +90,8 @@ I pošeptala jí to.
 
 Ale sotva ušla několik kroků, zvonily rolničky zas krásně:
 
-„Měl jsem, měl jsem,  
-ale nemám více…“
+> „Měl jsem, měl jsem,  
+> ale nemám více…“
 
 „Poslyš!“ řekla princezna. „Zeptej se ho, nechce-li deset hubiček od mých dvorních dam!“
 
@@ -159,5 +161,5 @@ A sviňáček šel za strom, smyl si černou a hnědou barvu z obličeje, odhod
 
 Princ odešel do své říše, přirazil vrata a zastrčil závoru. Teď mohla princezna stát venku a zpívat si:
 
-„Měla jsem, měla jsem,  
-ale nemám více…“
+> „Měla jsem, měla jsem,  
+> ale nemám více…“

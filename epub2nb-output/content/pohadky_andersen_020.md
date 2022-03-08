@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Největší zelený lupen má u nás na venkově rozhodně lopuch. Pověsíš-li si jej na břicho, může ti být docela dobře zástěrou, položíš-li si jej na hlavu, může sloužit za deště jako deštník, neboť je náramně veliký. Lopuch neroste nikdy sám: kde se daří jednomu, vyroste jich víc a je to pak veliká krása.
 
 A všechna ta krása je pokrmem hlemýžďů. Velcí, bílí hlemýždi, které si vznešení lidé za starých časů dávali upravovat k jídlu jakožto znamenitou zvláštnost, jedli lopuchy a říkali si:

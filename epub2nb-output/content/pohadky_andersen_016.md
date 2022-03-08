@@ -3,6 +3,8 @@ title: Malenka
 contentType: prose
 ---
 
+  
+
 Byla jedna paní a ta by byla tuze ráda měla malé děťátko. Ale nevěděla, jak si je opatřit. Šla tedy k staré čarodějnici a zeptala se jí:
 
 „Já bych náramně ráda měla děťátko, nechtěla bys mi říci, jak si je mohu opatřit?“

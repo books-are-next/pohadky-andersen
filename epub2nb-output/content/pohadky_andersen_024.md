@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Daleko na širém moři je voda tak modrá jako lístečky nejkrásnější chrpy a tak jasná jako nejčistší sklo. Ale je velmi hluboká. Žádné kotevní lano by nedosáhlo ke dnu a na dně by se musilo postavit na sebe mnoho kostelních věží, než by se dotkly hladiny. Tam dole bydlí mořské bytosti podobné lidem, a přece tak docela jiné. Jednají a cítí jako lidé, ale jejich tělo se podobá přece jen více rybám.
 
 Ale ne abyste si myslili, že tam je jenom holé, písčité dno; nikoli, rostou tam nejpodivnější stromy a rostliny, které mají tak ohebné stonky a listí, že se při nejmenším pohybu vody hýbají, jako by byly živé. Všechny ryby, malé i velké, rejdí mezi větvemi, jako u nás ptáci ve vzduchu. Na nejhlubším místě v moři stojí zámek mořského krále. Má korálové zdi, dlouhá, špičatá okna z nejjasnějšího jantaru a střechu ze samých mušlí, které se otvírají a zavírají podle toho, jak se voda hýbe. V každé z těchto mušlí leží živá perla a jediná taková perla by byla největší ozdobou koruny královské.

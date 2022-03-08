@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Snad jsi již někdy viděl takovou prastarou skříň, úplně zčernalou stářím a s vyřezávanými závity a lupeny. Právě taková stála v jedné světnici. Byla dědictvím po prababičce a byly na ní vyřezány růže a tulipány odshora až dolů. Kromě toho byly na ní přepodivné závity a mezi nimi vyhlížely jelení hlavičky s rozvětvenými parohy. Uprostřed byl na skříni vyřezán celý muž, náramně směšný napohled; šklebil se, ale tak, že to ani nevypadalo, jako by se smál, a na čele mu trčely kozí rohy. Také měl kozí nohy a dlouhý vous.
 
 Děti ve světnici mu říkaly „kozonohý vrchní a spodní válečný generální velitel“, protože se to těžko vyslovuje a že to vypadá náramně vznešeně. Však také vyřezat jej nebylo jen tak lehké!

@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Bylo tak krásně na venkově! „Vždyť bylo léto! Žito žloutlo, oves se zelenal, seno bylo v kupách na zelené louce a tam si vykračoval čáp na dlouhých, červených nohách a něco si žvatlal po egyptsku; té řeči se naučil od své matky. Kolem dokola vroubily pole a louky veliké lesy a uprostřed lesů byla hluboká jezera.“
 
 Bylo opravdu krásně na venkově! Uprostřed sluneční záplavy se rozkládal veliký panský dvorec s hlubokými příkopy kolem, na jejichž březích, ode zdi až k vodě, rostl lopuch tak vysoký, že pod nejvyššími listy mohly stát malé děti vzpřímeny. Rostl tak divoce, že tu bylo jako v nejhustším lese.

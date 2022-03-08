@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 V jedné městské ulici stál starý, prastarý dům. Skoro tři sta let tu již stál, jak ses mohl dočíst na arkýři, v němž byl letopočet vyryt uprostřed tulipánů a chmelových úponek. Také tam byly celé verše, psané po starodávnu, a nad každým oknem arkýře byl vyřezán šklebivý obličej. Horní poschodí vystupovalo o značný kus dopředu a těsně pod střechou byla okapová roura zakončená dračí hlavou. Dešťová voda měla téci tlamou draka, ale místo toho vytékala břichem, protože v okapu byla díra.
 
 Všechny ostatní domy v ulici byly nové a velmi krásné, s velkými okny a hladkými zdmi, a bylo na nich hned vidět, že nechtějí mít se starým domem nic společného. Myslily si asi: „Jak dlouho ještě bude ta stará barabizna dělat v naší ulici ostudu? Kromě toho jeho arkýř vybíhá tolik dopředu, že z našich oken není vidět, co se děje před domem. Schody má široké jako u nějakého zámku a vysoké, jako by vedly do kostelní věže. Kovové zábradlí u schodů vypadá jako u vchodu do staré hrobky a ještě má mosazné knoflíky. Je vůbec nevkusný!“

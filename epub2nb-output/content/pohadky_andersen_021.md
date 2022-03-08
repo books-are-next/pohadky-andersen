@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Před mnoha lety žil jeden císař. Nosil tuze rád krásné nové šaty a vydával všechny své peníze na to, aby byl hezky vyšňořen. Nestaral se o své vojáky a o svůj lid, nestaral se o divadlo ani o hony, staral se jenom o to, aby se mohl často ukázat v nových šatech. Měl zvláštní kabát na každou hodinu denní, a jako se říkávalo o jiných králích, že právě jsou v radě, tak se o něm říkalo pokaždé, když se po něm někdo ptal: „Císař je v šatně.“
 
 Ve velkém městě, kde bydlil, bylo velmi veselo. Každého dne tam přicházelo mnoho cizinců.

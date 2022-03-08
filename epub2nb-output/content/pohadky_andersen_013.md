@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Byl jeden kupec tak bohatý, že by byl mohl vydláždit samými stříbrňáky celé náměstí a ještě i malou sousední uličku. Ale on to neudělal, raději užil peněz jinak. Vydal-li malý peníz, dostal za něj hned peníz velký. Takový to byl kupec. A potom zemřel.
 
 Jeho syn zdědil po něm všechny peníze a žil si vesele. Měl mnoho dobrých přátel. Lepil papírové draky z dvacetikorun a házel „žabky“ po vodě jenom samými zlaťáky místo kamenů.

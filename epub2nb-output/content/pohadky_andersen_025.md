@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Na jednom venkovském starém dvorci hospodařil starý statkář. Měl dva syny tak chytré, že polovina té chytrosti by pro ně byla stačila. Chtěli se ucházet o dceru královu. To také směli, protože princezna dala prohlásit, že si vezme za muže jen toho, kdo s ní bude chytře hovořit, třeba to byl venkovský chasník.
 
 Oba se na ty námluvy připravovali osm dní. To byla nejdelší lhůta, ale také úplně stačila, neboť oba již mnoho věděli, a to bývá užitečné. Jeden znal zpaměti celý latinský slovník a tři svazky novin, a to odpředu i pozpátku. Druhý se naučil zpaměti všem paragrafům zákona; tak myslil, že může hovořit o státních záležitostech. Kromě toho také uměl vyšívat popruhy, neboť byl obratný a měl hbité prsty.

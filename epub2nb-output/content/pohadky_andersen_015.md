@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Ubohý Jan byl velmi zarmoucen. Jeho otec těžce stonal a nebylo mu pomoci. V malé světničce byli jen oni dva. Bylo hodně pozdě večer a lampa na stole dohořívala.
 
 „Byl jsi dobrým synem, Jene!“ řekl nemocný otec. „Pán Bůh ti bude ve světě pomáhat.“ Podíval se na syna vážnýma, laskavýma očima, vzdychl zhluboka a zemřel. Bylo to, jako by byl usnul.
@@ -247,12 +249,12 @@ Všichni lidé křičeli: „Sláva!“ Vojenská hudba hrála po ulicích, zvon
 
 Večer bylo celé město osvětleno a vojáci stříleli z děl a hoši z kapslových pistolek. A nahoře v zámku jedli a pili, připíjeli si a skákali. Všichni vznešení páni a krásné slečny spolu tančili a daleko bylo slyšet, jak zpívali tuhle divnou písničku:
 
-„To je zde krásných, spanilých děv,  
-veselo všude, radost i ples,  
-odevšud zní jen jásot a zpěv!  
-Krásná ty děvo, rozjasni líce,  
-tanči a dupej,  
-až ztratíš střevíce!“
+> „To je zde krásných, spanilých děv,  
+> veselo všude, radost i ples,  
+> odevšud zní jen jásot a zpěv!  
+> Krásná ty děvo, rozjasni líce,  
+> tanči a dupej,  
+> až ztratíš střevíce!“
 
 Ale princezna byla dosud přece čarodějnicí, neměla Jana ani trochu ráda. Na to si vzpomněl Janův kamarád, i dal mu tři brky z labutích křídel a malou lahvičku s několika kapkami. Řekl mu, aby k princeznině svatební posteli dal postavit velikou káď naplněnou vodou. Až princezna bude stoupat na lůžko, ať ji jemně strčí, až spadne do vody. Tam ať ji třikrát potopí, ale dříve ať do vody hodí ty brky a kapky. Tak bude princezna zbavena svého čarodějství a velmi se do něho zamiluje.
 

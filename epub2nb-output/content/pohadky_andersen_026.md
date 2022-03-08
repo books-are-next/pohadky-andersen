@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Byl jednou princ a ten si chtěl vyhledat za manželku princeznu. Ale měla to být opravdová princezna. I procestoval celý svět křížem krážem, aby takovou princeznu nalezl, ale všude se do toho něco připletlo, co mu vadilo. Princezen bylo sice dost, ale zdali jsou to opravdové princezny, nemohl nikdy zjistit. Vždycky se našlo něco, co nebylo v pořádku.
 
 I vrátil se domů a byl velice zarmoucen, neboť by byl tuze rád měl opravdovou princeznu.

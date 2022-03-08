@@ -3,6 +3,8 @@ title: Křesadlo
 contentType: prose
 ---
 
+  
+
 Křesadlem kdysi rozdělávali lidé oheň, ještě než byly vynalezeny zápalky. Skládalo se z kamínku, ocelové tyčinky a troudu (hořlavé vlny). Když se kříslo ocelí o kámen, vzlétla jiskra a zapálila troud. O takovém křesadle znám tuto pohádku:
 
 Po silnici si vykračoval voják: Ráz, dva! Ráz, dva! Měl torbu na zádech a šavli po boku; byl ve válce a teď se vracel domů.

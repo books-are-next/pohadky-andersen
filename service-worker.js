@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-726904b';
+const CACHE = 'cache-9d84138';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./pohadky_andersen_001.html","./pohadky_andersen_002.html","./pohadky_andersen_003.html","./pohadky_andersen_004.html","./pohadky_andersen_005.html","./pohadky_andersen_006.html","./pohadky_andersen_007.html","./pohadky_andersen_008.html","./pohadky_andersen_009.html","./pohadky_andersen_010.html","./pohadky_andersen_011.html","./pohadky_andersen_012.html","./pohadky_andersen_013.html","./pohadky_andersen_014.html","./pohadky_andersen_015.html","./pohadky_andersen_016.html","./pohadky_andersen_017.html","./pohadky_andersen_018.html","./pohadky_andersen_019.html","./pohadky_andersen_020.html","./pohadky_andersen_021.html","./pohadky_andersen_022.html","./pohadky_andersen_023.html","./pohadky_andersen_024.html","./pohadky_andersen_025.html","./pohadky_andersen_026.html","./pohadky_andersen_027.html","./pohadky_andersen_028.html","./pohadky_andersen_029.html","./pohadky_andersen_030.html","./pohadky_andersen_031.html","./pohadky_andersen_032.html","./pohadky_andersen_033.html","./pohadky_andersen_034.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./pohadky_andersen_002.html","./pohadky_andersen_005.html","./pohadky_andersen_006.html","./pohadky_andersen_007.html","./pohadky_andersen_008.html","./pohadky_andersen_009.html","./pohadky_andersen_010.html","./pohadky_andersen_011.html","./pohadky_andersen_012.html","./pohadky_andersen_013.html","./pohadky_andersen_014.html","./pohadky_andersen_015.html","./pohadky_andersen_016.html","./pohadky_andersen_017.html","./pohadky_andersen_018.html","./pohadky_andersen_019.html","./pohadky_andersen_020.html","./pohadky_andersen_021.html","./pohadky_andersen_022.html","./pohadky_andersen_023.html","./pohadky_andersen_024.html","./pohadky_andersen_025.html","./pohadky_andersen_026.html","./pohadky_andersen_027.html","./pohadky_andersen_028.html","./pohadky_andersen_029.html","./pohadky_andersen_030.html","./pohadky_andersen_031.html","./pohadky_andersen_032.html","./pohadky_andersen_033.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {

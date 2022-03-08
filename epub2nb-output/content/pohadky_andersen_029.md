@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Blešák, luční koník a kozel se chtěli jednou přesvědčit, kdo z nich nejvýše skočí. I pozvali celý svět a každého, kdo se ještě chtěl přijít podívat na tu nádheru a na ty tři znamenité skokany, kteří se tu sešli ve světnici.
 
 „Já dám svou dceru tomu, kdo skočí nejvýš,“ prohlásil král, „neboť by bylo žebrácké, aby ti tři skákali jen tak pro nic!“

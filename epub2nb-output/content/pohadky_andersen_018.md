@@ -5,6 +5,8 @@ title: |-
 contentType: prose
 ---
 
+  
+
 Daleko odtud, až kam odlétají vlaštovky, když je u nás zima, bydlel král a ten měl jedenáct synů a jednu dceru, Elišku. Těch jedenáct bratří chodilo do školy s hvězdou na prsou a šavlí po boku; psali na zlaté tabulky diamantovými kamínky, pěkně četli a učili se zpaměti. Sestra Eliška sedala na malé židličce z křišťálového skla a v ruce držela obrázkovou knihu, kterou jí koupili za půl království.
 
 Ba, vedlo se těm dětem znamenitě! Ale také to mělo konec.
