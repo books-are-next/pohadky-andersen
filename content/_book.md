@@ -11,6 +11,8 @@ meta:
   author: Hans Christien Andersen
   publisher: Městská knihovna v Praze
   modified: '2022-03-08T14:31:31.614Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - pohadky_andersen_002.html
   - pohadky_andersen_005.html
