@@ -7,7 +7,9 @@
       "identifier": "26197837-1813-4fb9-b158-2a0d1d3c5366",
       "author": "Hans Christien Andersen",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-08T14:31:31.614Z"
+      "modified": "2022-03-08T14:31:31.614Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
       "title": "e-booknadpis ",
@@ -92,8 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Upozornění pro čtenáře "
+            "title": "Upozornění pro čtenáře ",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_006.md",
@@ -105,8 +107,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pohádka života"
+            "title": "Pohádka života",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_007.md",
@@ -118,8 +120,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Křesadlo"
+            "title": "Křesadlo",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_008.md",
@@ -131,8 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Slavík"
+            "title": "Slavík",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_009.md",
@@ -144,8 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pastýřka a kominíček"
+            "title": "Pastýřka a kominíček",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_010.md",
@@ -157,8 +159,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sněhová královna"
+            "title": "Sněhová královna",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_011.md",
@@ -170,8 +172,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Smrček"
+            "title": "Smrček",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_012.md",
@@ -183,8 +185,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Starý dům"
+            "title": "Starý dům",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_013.md",
@@ -196,8 +198,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Čarovná truhlice"
+            "title": "Čarovná truhlice",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_014.md",
@@ -209,8 +211,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Statečný cínový vojáček"
+            "title": "Statečný cínový vojáček",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_015.md",
@@ -222,8 +224,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Dva přátelé"
+            "title": "Dva přátelé",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_016.md",
@@ -235,8 +237,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Malenka"
+            "title": "Malenka",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_017.md",
@@ -248,8 +250,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Bezová matička"
+            "title": "Bezová matička",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_018.md",
@@ -261,8 +263,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Divoké labutě"
+            "title": "Divoké labutě",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_019.md",
@@ -274,8 +276,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Sviňáček"
+            "title": "Sviňáček",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_020.md",
@@ -287,8 +289,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Šťastná rodina"
+            "title": "Šťastná rodina",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_021.md",
@@ -300,8 +302,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Císařovy nové šaty"
+            "title": "Císařovy nové šaty",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_022.md",
@@ -313,8 +315,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ropucha"
+            "title": "Ropucha",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_023.md",
@@ -326,8 +328,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Uspávač"
+            "title": "Uspávač",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_024.md",
@@ -339,8 +341,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Mořská ženka"
+            "title": "Mořská ženka",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_025.md",
@@ -352,8 +354,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Hloupý Honza"
+            "title": "Hloupý Honza",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_026.md",
@@ -365,8 +367,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "O princezně na hrášku"
+            "title": "O princezně na hrášku",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_027.md",
@@ -378,8 +380,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Ošklivé kačátko"
+            "title": "Ošklivé kačátko",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_028.md",
@@ -391,8 +393,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Stříbrňák"
+            "title": "Stříbrňák",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_029.md",
@@ -404,8 +406,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Kdo skočí nejvýš"
+            "title": "Kdo skočí nejvýš",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_030.md",
@@ -417,8 +419,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pět hrášků v jednom lusku"
+            "title": "Pět hrášků v jednom lusku",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_031.md",
@@ -430,8 +432,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Pokladnička"
+            "title": "Pokladnička",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_032.md",
@@ -443,8 +445,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Helenčiny květiny"
+            "title": "Helenčiny květiny",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_033.md",
@@ -456,8 +458,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poznámky pod čarou"
+            "title": "Poznámky pod čarou",
+            "children": []
           },
           {
             "filename": "pohadky_andersen_034.md",
@@ -482,7 +484,7 @@
       "identifier": "26197837-1813-4fb9-b158-2a0d1d3c5366",
       "author": "Hans Christien Andersen",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-08T15:05:16.937Z"
+      "modified": "2022-03-14T08:59:13.346Z"
     },
     "chapters": [
       {
@@ -778,6 +780,6 @@
       "user": "books-are-next",
       "repo": "pohadky-andersen"
     },
-    "generatedAt": 1646751917788
+    "generatedAt": 1647248354044
   }
 }

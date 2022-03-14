@@ -1,15 +1,17 @@
 {
   "author": "Hans Christien Andersen",
   "contenttype": "prose",
-  "identifier": "andersen-pohadky-9d84138",
+  "edition": "beletrie",
+  "identifier": "andersen-pohadky-d3536e2",
   "languagecode": "cs",
   "modified": "2022-03-08T14:31:31.614Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Pohádky",
-  "revision": "9d84138",
+  "revision": "d3536e2",
   "generatedAt": {
-    "date": "Tue Mar 08 2022 15:06:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646751973228
+    "date": "Mon Mar 14 2022 09:00:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647248409621
   },
   "documents": [
     {
@@ -751,9 +753,9 @@
   ],
   "totals": {
     "all": {
-      "words": 66468,
-      "chars": 384372,
-      "ideas": 2133
+      "words": 66470,
+      "chars": 384383,
+      "ideas": 2135
     },
     "chapters": {
       "words": 66297,
