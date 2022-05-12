@@ -1,7 +1,5 @@
 ---
-title: |-
-  Helenčiny
-  květiny
+title: Helenčiny květiny
 contentType: prose
 ---
 

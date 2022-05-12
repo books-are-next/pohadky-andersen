@@ -1,7 +1,5 @@
 ---
-title: |-
-  Divoké
-  labutě
+title: Divoké labutě
 contentType: prose
 ---
 

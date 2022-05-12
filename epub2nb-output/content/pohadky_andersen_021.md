@@ -1,7 +1,5 @@
 ---
-title: |-
-  Císařovy
-  nové šaty
+title: Císařovy nové šaty
 contentType: prose
 ---
 

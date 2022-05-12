@@ -1,7 +1,5 @@
 ---
-title: |-
-  Statečný
-  cínový vojáček
+title: Statečný cínový vojáček
 contentType: prose
 ---
 

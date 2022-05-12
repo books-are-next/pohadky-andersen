@@ -1,7 +1,5 @@
 ---
-title: |-
-  Hloupý
-  Honza
+title: Hloupý Honza
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Kdo
-  skočí nejvýš
+title: Kdo skočí nejvýš
 contentType: prose
 ---
 

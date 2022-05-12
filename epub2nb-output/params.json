@@ -52,7 +52,7 @@
             "filename": "pohadky_andersen_002.md",
             "xhtml": "pohadky_andersen_002.htm",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -475,8 +475,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -484,7 +483,7 @@
       "identifier": "26197837-1813-4fb9-b158-2a0d1d3c5366",
       "author": "Hans Christien Andersen",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-14T08:59:13.346Z"
+      "modified": "2017-03-24T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -512,13 +511,13 @@
         "xhtml": "pohadky_andersen_004.htm"
       },
       {
-        "titleSuggest": "Upozornění\npro čtenáře ",
+        "titleSuggest": "Upozornění pro čtenáře ",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_005.md",
         "xhtml": "pohadky_andersen_005.htm"
       },
       {
-        "titleSuggest": "Pohádka\nživota",
+        "titleSuggest": "Pohádka života",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_006.md",
         "xhtml": "pohadky_andersen_006.htm"
@@ -536,13 +535,13 @@
         "xhtml": "pohadky_andersen_008.htm"
       },
       {
-        "titleSuggest": "Pastýřka\na kominíček",
+        "titleSuggest": "Pastýřka a kominíček",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_009.md",
         "xhtml": "pohadky_andersen_009.htm"
       },
       {
-        "titleSuggest": "Sněhová\nkrálovna",
+        "titleSuggest": "Sněhová královna",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_010.md",
         "xhtml": "pohadky_andersen_010.htm"
@@ -554,25 +553,25 @@
         "xhtml": "pohadky_andersen_011.htm"
       },
       {
-        "titleSuggest": "Starý\ndům",
+        "titleSuggest": "Starý dům",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_012.md",
         "xhtml": "pohadky_andersen_012.htm"
       },
       {
-        "titleSuggest": "Čarovná\ntruhlice",
+        "titleSuggest": "Čarovná truhlice",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_013.md",
         "xhtml": "pohadky_andersen_013.htm"
       },
       {
-        "titleSuggest": "Statečný\ncínový vojáček",
+        "titleSuggest": "Statečný cínový vojáček",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_014.md",
         "xhtml": "pohadky_andersen_014.htm"
       },
       {
-        "titleSuggest": "Dva\npřátelé",
+        "titleSuggest": "Dva přátelé",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_015.md",
         "xhtml": "pohadky_andersen_015.htm"
@@ -584,13 +583,13 @@
         "xhtml": "pohadky_andersen_016.htm"
       },
       {
-        "titleSuggest": "Bezová\nmatička",
+        "titleSuggest": "Bezová matička",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_017.md",
         "xhtml": "pohadky_andersen_017.htm"
       },
       {
-        "titleSuggest": "Divoké\nlabutě",
+        "titleSuggest": "Divoké labutě",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_018.md",
         "xhtml": "pohadky_andersen_018.htm"
@@ -602,13 +601,13 @@
         "xhtml": "pohadky_andersen_019.htm"
       },
       {
-        "titleSuggest": "Šťastná\nrodina",
+        "titleSuggest": "Šťastná rodina",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_020.md",
         "xhtml": "pohadky_andersen_020.htm"
       },
       {
-        "titleSuggest": "Císařovy\nnové šaty",
+        "titleSuggest": "Císařovy nové šaty",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_021.md",
         "xhtml": "pohadky_andersen_021.htm"
@@ -626,25 +625,25 @@
         "xhtml": "pohadky_andersen_023.htm"
       },
       {
-        "titleSuggest": "Mořská\nženka",
+        "titleSuggest": "Mořská ženka",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_024.md",
         "xhtml": "pohadky_andersen_024.htm"
       },
       {
-        "titleSuggest": "Hloupý\nHonza",
+        "titleSuggest": "Hloupý Honza",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_025.md",
         "xhtml": "pohadky_andersen_025.htm"
       },
       {
-        "titleSuggest": "O\nprincezně na hrášku",
+        "titleSuggest": "O princezně na hrášku",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_026.md",
         "xhtml": "pohadky_andersen_026.htm"
       },
       {
-        "titleSuggest": "Ošklivé\nkačátko",
+        "titleSuggest": "Ošklivé kačátko",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_027.md",
         "xhtml": "pohadky_andersen_027.htm"
@@ -656,13 +655,13 @@
         "xhtml": "pohadky_andersen_028.htm"
       },
       {
-        "titleSuggest": "Kdo\nskočí nejvýš",
+        "titleSuggest": "Kdo skočí nejvýš",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_029.md",
         "xhtml": "pohadky_andersen_029.htm"
       },
       {
-        "titleSuggest": "Pět\nhrášků v jednom lusku",
+        "titleSuggest": "Pět hrášků v jednom lusku",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_030.md",
         "xhtml": "pohadky_andersen_030.htm"
@@ -674,7 +673,7 @@
         "xhtml": "pohadky_andersen_031.htm"
       },
       {
-        "titleSuggest": "Helenčiny\nkvětiny",
+        "titleSuggest": "Helenčiny květiny",
         "subtitleSuggest": "",
         "filename": "pohadky_andersen_032.md",
         "xhtml": "pohadky_andersen_032.htm"
@@ -780,6 +779,6 @@
       "user": "books-are-next",
       "repo": "pohadky-andersen"
     },
-    "generatedAt": 1647248354044
+    "generatedAt": 1652351452241
   }
 }

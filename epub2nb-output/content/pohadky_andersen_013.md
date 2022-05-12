@@ -1,7 +1,5 @@
 ---
-title: |-
-  Čarovná
-  truhlice
+title: Čarovná truhlice
 contentType: prose
 ---
 

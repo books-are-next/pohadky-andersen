@@ -1,7 +1,5 @@
 ---
-title: |-
-  Šťastná
-  rodina
+title: Šťastná rodina
 contentType: prose
 ---
 

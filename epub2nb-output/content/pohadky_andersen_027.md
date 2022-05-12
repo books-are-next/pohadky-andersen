@@ -1,7 +1,5 @@
 ---
-title: |-
-  Ošklivé
-  kačátko
+title: Ošklivé kačátko
 contentType: prose
 ---
 
