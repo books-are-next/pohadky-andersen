@@ -1,7 +1,5 @@
 ---
-title: |-
-  Sněhová
-  královna
+title: Sněhová královna
 contentType: prose
 ---
 

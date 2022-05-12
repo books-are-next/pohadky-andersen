@@ -1,7 +1,5 @@
 ---
-title: |-
-  Dva
-  přátelé
+title: Dva přátelé
 contentType: prose
 ---
 

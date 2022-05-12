@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pět
-  hrášků v jednom lusku
+title: Pět hrášků v jednom lusku
 contentType: prose
 ---
 

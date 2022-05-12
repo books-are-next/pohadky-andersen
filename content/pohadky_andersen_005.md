@@ -1,7 +1,5 @@
 ---
-title: |-
-  Upozornění
-  pro čtenáře 
+title: 'Upozornění pro čtenáře '
 contentType: prose
 ---
 

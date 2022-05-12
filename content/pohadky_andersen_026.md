@@ -1,7 +1,5 @@
 ---
-title: |-
-  O
-  princezně na hrášku
+title: O princezně na hrášku
 contentType: prose
 ---
 

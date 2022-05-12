@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pohádka
-  života
+title: Pohádka života
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pastýřka
-  a kominíček
+title: Pastýřka a kominíček
 contentType: prose
 ---
 

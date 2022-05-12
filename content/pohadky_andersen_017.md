@@ -1,7 +1,5 @@
 ---
-title: |-
-  Bezová
-  matička
+title: Bezová matička
 contentType: prose
 ---
 

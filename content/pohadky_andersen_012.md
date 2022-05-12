@@ -1,7 +1,5 @@
 ---
-title: |-
-  Starý
-  dům
+title: Starý dům
 contentType: prose
 ---
 

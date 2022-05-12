@@ -1,7 +1,5 @@
 ---
-title: |-
-  Mořská
-  ženka
+title: Mořská ženka
 contentType: prose
 ---
 
