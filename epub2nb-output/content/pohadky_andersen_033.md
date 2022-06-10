@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) _hindská_ – indická
 
 [\[2\]](./resources/undefined) _Etna_ – sopka na Sicílii
@@ -20,3 +22,5 @@ contentType: prose
 [\[8\]](./resources/undefined) _Ezop_ – nejproslulejší skladatel bajek, Řek, který žil v 6. stol. před n. l.
 
 [\[9\]](./resources/undefined) _Sokrates_ – slavný řecký filozof z 5. stol. před n. l.
+
+</section>

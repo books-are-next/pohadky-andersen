@@ -3,7 +3,7 @@ title: O princezně na hrášku
 contentType: prose
 ---
 
-  
+<section>
 
 Byl jednou princ a ten si chtěl vyhledat za manželku princeznu. Ale měla to být opravdová princezna. I procestoval celý svět křížem krážem, aby takovou princeznu nalezl, ale všude se do toho něco připletlo, co mu vadilo. Princezen bylo sice dost, ale zdali jsou to opravdové princezny, nemohl nikdy zjistit. Vždycky se našlo něco, co nebylo v pořádku.
 
@@ -28,3 +28,5 @@ Z toho poznali, že je to opravdová princezna, když přes dvacet žíněnek a 
 Princ si ji vzal za manželku, poněvadž věděl, že má opravdovou princeznu, a hrachové zrnko se dostalo do klenotnice, kde je můžete ještě spatřit, nevzal-li je dosud nikdo.
 
 Hleďte, a to se skutečně přihodilo!
+
+</section>

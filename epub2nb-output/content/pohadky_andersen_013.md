@@ -3,7 +3,7 @@ title: Čarovná truhlice
 contentType: prose
 ---
 
-  
+<section>
 
 Byl jeden kupec tak bohatý, že by byl mohl vydláždit samými stříbrňáky celé náměstí a ještě i malou sousední uličku. Ale on to neudělal, raději užil peněz jinak. Vydal-li malý peníz, dostal za něj hned peníz velký. Takový to byl kupec. A potom zemřel.
 
@@ -118,3 +118,5 @@ Byly to opravdu krásné věci, co slyšel, a den poté měl mít svatbu.
 I vrátil se do lesa, aby si sedl do své truhlice. Ale kde je? – Truhlice shořela! Jiskra z ohňostroje v ní zůstala, rozžehla oheň a z truhlice zbyl jen popel. Již nemohl kupecký synek létat ke své nevěstě.
 
 Ta stála celý den na střeše a čekala. A čeká podnes. Ale on chodí po světě a vypravuje pohádky. Ty však již nejsou tak veselé jako ta, kterou vyprávěl o sirkách.
+
+</section>

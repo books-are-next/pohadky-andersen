@@ -3,6 +3,8 @@ title: Sněhová královna
 contentType: prose
 ---
 
+<section>
+
 * * *
 
 ## První pohádka,  
@@ -27,7 +29,9 @@ Tak poslyšte! – –
 ## Druhá pohádka  
 O hošíkovi a děvčátku
 
-  
+</section>
+
+<section>
 
 Ve velkém městě, kde je tolik domů a lidí, že nezbývá dost místa, aby všichni lidé mohli mít zahrádku, a proto se většinou musí spokojit s květinami v květináčích, bydlily dvě chudé děti. Měly dvě zahrádky o něco větší nežli květináče. Nebyli bratr a sestra, ale měli se právě tak rádi, jako by jimi byli. Jejich rodiče bydlili hned vedle sebe ve dvou podkrovních komůrkách, vlastně vikýřích, tam, kde se střechy domů dotýkaly. Od široké římsy běžela napříč mezi oběma okénky sousedních komůrek okapová roura, takže stačilo jenom ji překročit, aby ses dostal po římse od okna k oknu. A římsa byla velmi široká a ohrazená zábradlím.
 
@@ -133,7 +137,9 @@ Letěli přes lesy a jezera, přes moře a země. Dole pod nimi burácel chladn�
 ## Třetí pohádka  
 O stařeně, která měla zahradu a uměla čarovat
 
-  
+</section>
+
+<section>
 
 Ale jak se dařilo malé Gerdě, když se Kaj nevracel? A kdepak byl asi Kaj? Nikdo nevěděl, nikdo to nedovedl vysvětlit. Chlapci jenom vypravovali, že ho viděli, jak si přivazuje sáňky k velkým, nádherným saním, které jely do ulice a branou ven. Nikdo nevěděl, kde je, mnoho slziček se uronilo a malá Gerda plakala upřímně a dlouho. Potom řekli, že je asi mrtev, že se utopil v řece, která tekla okolo města. Ó, to byly velmi dlouhé, temné zimní dny!
 
@@ -278,7 +284,9 @@ Vstala rychle a vydala se na cestu.
 ## Čtvrtá pohádka  
 O princi a princezně
 
-  
+</section>
+
+<section>
 
 Gerda si musila zase odpočinout. Po sněhu, hned proti místu, kde ona seděla, poskakovala velká vrána. Seděla tu již dlouho, dívala se na Gerdu a pokyvovala hlavou. Řekla: „Krá! Krá! – Dobrý den! Dobrý den!“
 
@@ -399,7 +407,9 @@ Tak to šlo prvé míle. Tu se také vrána rozloučila s Gerdou, a to bylo nejt
 ## Pátá pohádka  
 O loupežnickém děvčátku
 
-  
+</section>
+
+<section>
 
 Cesta vedla tmavým lesem, ale kočárek zářil jako plamen. Najednou se z lesa vyrojili loupežníci. Zář kočárku jim padala do obličeje, až zrak přecházel.
 
@@ -510,7 +520,9 @@ Chléb již byl sněden a šunka také, když se dostali do Laponska. – –
 ## Šestá pohádka  
 Laponka a Finka
 
-  
+</section>
+
+<section>
 
 Zastavili se před náramně chatrným domem. Střecha mu sahala až k zemi a dveře měl tak nízké, že chtěl-li někdo ven nebo dovnitř, musil lézt po břiše.
 
@@ -560,7 +572,9 @@ Ale nyní se nejdříve podíváme, jak se dařilo Kajovi. Nemyslil vůbec na ma
 Co se dálo v zámku Sněhové královny  
 a co se přihodilo potom
 
-  
+</section>
+
+<section>
 
 Stěny zámku byly z poletujícího sněhu a okna a dveře z řezavého větru. Bylo tu na sta sálů, všechny tak, jak je sníh navál. Největší se táhl na mnoho mil. Všechny byly osvětleny severní září a byly náramně velké, ale prázdné a ledově chladné a zářivé. Nikdy sem nepřišlo ani tolik veselí, jako bývá na plese medvědů, když jim vichr k tomu hraje a ledoví medvědi chodí po zadních nohách a chovají se vybraně. Nikdy se tu nekonaly hry se zástavami a vyplácením; ba nebyly tu ani kávové schůzky bílých liščích slečinek. Prázdno a zima bylo ve velkých sálech Sněhové královny. Severní záře svítila tak pravidelně, že bys mohl vypočítat, kdy bude svítit nejvíc a kdy nejméně.
 
@@ -635,3 +649,5 @@ A Kaj a Gerda se dívali sobě navzájem do očí a náhle porozuměli staré p�
 I seděli tu oba dorostlí, a přece děti, děti srdcem.
 
 A bylo jaro, vonné, krásné jaro!
+
+</section>

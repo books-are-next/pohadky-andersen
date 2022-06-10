@@ -3,7 +3,7 @@ title: Pokladnička
 contentType: prose
 ---
 
-  
+<section>
 
 V dětském pokoji bylo velmi mnoho hraček. Na skříni stála pokladnička, byla hliněná a měla podobu prasátka. Měla ovšem nahoře otvor a ten otvor byl nožem ještě zvětšen, aby se tam mohly strkat také velké stříbrné peníze.
 
@@ -44,3 +44,5 @@ Byl to skutečný požitek, takže vynechali podávání čaje a hned přišlo t
 A pokladnička přemýšlela nejdále dopředu; myslila na poslední vůli a pohřeb – a kdy to nastane. Bývá to vždycky dříve, než se naděješ. – Bác! Teď spadla ze skříně – ležela na zemi rozbita na kusy a střepy a peníze z ní skákaly a tančily po podlaze; nejmenší se otáčely, velké se kutálely, zvláště jeden stříbrný peníz, ten chtěl hodně daleko do světa. A dostal se tam a také všechny ostatní se tam dostaly.
 
 A střepy z pokladničky se dostaly do kbelíku, ale na skříni stála hned druhého dne nová hliněná pokladnička. Nebylo v ní ještě ani penízku, a proto nemohla zazvučet, když jí někdo zatřepal. Tím se podobala své předchůdkyni. Byl to přece začátek – a tím skončíme.
+
+</section>

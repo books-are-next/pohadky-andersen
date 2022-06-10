@@ -3,7 +3,7 @@ title: Pohádka života
 contentType: prose
 ---
 
-  
+<section>
 
 Před více než sto padesáti lety žili v dánském městě Odense v jedné malé chudé jizbě mladý obuvník se svou ženou. Byli velmi chudí, ale měli se nesmírně rádi. Muži bylo něco přes dvacet let, byl velmi přičinlivý a nadaný, a jeho žena, o několik let starší, měla srdce plné lásky. Mladý švec se teprve nedávno „udělal pro sebe“ a sám si zrobil verpánek i postel. K vyrobení této postele použil dřeva z katafalku, na němž krátce předtím stála rakev jednoho tuze vznešeného hraběte. Útržky černého sukna na pelestech ještě na to upomínaly. Místo vznešeného hraběcího nebožtíka, obklopeného kvítím a planoucími svícemi, octlo se na této posteli dne 2. dubna 1805 živé plačící děcko – **_Hans Christian Andersen_**.
 
@@ -30,3 +30,5 @@ Tomu všemu nás učí Andersen a zároveň uchvacuje čtenáře bohatým, děje
 Pro tyto půvaby zůstávají pohádky severského umělce opravdu nesmrtelnými.
 
 _G. P._
+
+</section>

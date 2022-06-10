@@ -3,7 +3,7 @@ title: Starý dům
 contentType: prose
 ---
 
-  
+<section>
 
 V jedné městské ulici stál starý, prastarý dům. Skoro tři sta let tu již stál, jak ses mohl dočíst na arkýři, v němž byl letopočet vyryt uprostřed tulipánů a chmelových úponek. Také tam byly celé verše, psané po starodávnu, a nad každým oknem arkýře byl vyřezán šklebivý obličej. Horní poschodí vystupovalo o značný kus dopředu a těsně pod střechou byla okapová roura zakončená dračí hlavou. Dešťová voda měla téci tlamou draka, ale místo toho vytékala břichem, protože v okapu byla díra.
 
@@ -130,3 +130,5 @@ Mladá žena otřela vojáčka nejprve zeleným lupenem a potom svým jemným ka
 „Ukaž mi ho!“ řekl mladý muž usmívaje se a potřásaje hlavou. „Není to asi ten, ale připomíná mi příběh s cínovým vojáčkem, kterého jsem měl, když jsem byl ještě malým chlapcem!“
 
 I vypravoval ženě o starém domě a starém muži, o cínovém vojáčkovi, kterého mu poslal, protože byl tak strašlivě osamělý. Vypravoval to tak živě, až mladé ženě vstoupily do očí slzy nad starým domem i nad starým mužem.
+
+</section>

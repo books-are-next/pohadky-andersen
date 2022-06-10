@@ -3,7 +3,7 @@ title: Mořská ženka
 contentType: prose
 ---
 
-  
+<section>
 
 Daleko na širém moři je voda tak modrá jako lístečky nejkrásnější chrpy a tak jasná jako nejčistší sklo. Ale je velmi hluboká. Žádné kotevní lano by nedosáhlo ke dnu a na dně by se musilo postavit na sebe mnoho kostelních věží, než by se dotkly hladiny. Tam dole bydlí mořské bytosti podobné lidem, a přece tak docela jiné. Jednají a cítí jako lidé, ale jejich tělo se podobá přece jen více rybám.
 
@@ -312,3 +312,5 @@ Neviditelná políbila čelo ženichovo, usmívala se na něj a vystoupila s os
 „Za tři sta let se takto vzneseme do království božího!“
 
 „Ještě dříve se tam můžeme dostat!“ šeptala jedna. „Nepozorovaně vnikneme do lidského obydlí, kde jsou děti. Za každý den, ve kterém najdeme dobré dítě, jež dělá svým rodičům radost a zaslouží si jejich lásky, zkrátí Bůh naši zkušební dobu. Dítě neví, kdy se vznášíme ve světnici, a když se radostí nad ním usmějeme, tu se odečte jeden rok z oněch tří set. Ale spatříme-li nezpůsobné a zlé dítě, tu musíme ronit slzy žalu a každá slza prodlužuje naši zkušební dobu o den!“
+
+</section>

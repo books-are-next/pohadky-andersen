@@ -3,7 +3,7 @@ title: Sviňáček
 contentType: prose
 ---
 
-  
+<section>
 
 Byl jednou chudý, ale náramně chytrý princ. Měl království tuze malé, ale přece dost velké, aby se na to mohl oženit. A on se oženit chtěl.
 
@@ -163,3 +163,5 @@ Princ odešel do své říše, přirazil vrata a zastrčil závoru. Teď mohla p
 
 > „Měla jsem, měla jsem,  
 > ale nemám více…“
+
+</section>

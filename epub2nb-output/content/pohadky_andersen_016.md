@@ -3,7 +3,7 @@ title: Malenka
 contentType: prose
 ---
 
-  
+<section>
 
 Byla jedna paní a ta by byla tuze ráda měla malé děťátko. Ale nevěděla, jak si je opatřit. Šla tedy k staré čarodějnici a zeptala se jí:
 
@@ -200,3 +200,5 @@ Všichni měli z toho velikou radost a vlaštovka, která seděla nahoře ve sv�
 „Sbohem, sbohem!“ zavolala vlaštovka a odletěla opět z teplých krajin daleko pryč, až k nám.
 
 Zde měla hnízdečko nad oknem, kde bydlí muž, který umí vyprávět pohádky, a jemu zpívala: „Kvivít, kvivít!“ Od ní máme celou tuto pohádku.
+
+</section>

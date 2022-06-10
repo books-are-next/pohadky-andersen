@@ -3,7 +3,7 @@ title: Ropucha
 contentType: prose
 ---
 
-  
+<section>
 
 Studna byla hluboká, proto musilo být také lano na vytahování vody hodně dlouhé. Když přehazovali okov s vodou přes roubení studny, hřídel se těžce otáčel. Slunce se nikdy nedostalo tak hluboko, aby se zrcadlilo ve vodě, třeba byla sebečistší, ale kam až dosvitlo, všude vyrůstala zeleň mezi kameny.
 
@@ -152,3 +152,5 @@ Ale drahokam v hlavě ropuchy?
 Hledej jej v slunci, můžeš-li!
 
 Jeho lesk je však příliš silný. Nemáme dosud takové oči, abychom jej viděli v plné jeho kráse, jak jej Bůh stvořil. Ale budeme jej mít, a to bude nejkrásnější pohádka! Protože budeme sami také v ní.
+
+</section>

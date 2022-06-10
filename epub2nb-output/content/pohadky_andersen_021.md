@@ -3,7 +3,7 @@ title: Císařovy nové šaty
 contentType: prose
 ---
 
-  
+<section>
 
 Před mnoha lety žil jeden císař. Nosil tuze rád krásné nové šaty a vydával všechny své peníze na to, aby byl hezky vyšňořen. Nestaral se o své vojáky a o svůj lid, nestaral se o divadlo ani o hony, staral se jenom o to, aby se mohl často ukázat v nových šatech. Měl zvláštní kabát na každou hodinu denní, a jako se říkávalo o jiných králích, že právě jsou v radě, tak se o něm říkalo pokaždé, když se po něm někdo ptal: „Císař je v šatně.“
 
@@ -96,3 +96,5 @@ Nikdo nechtěl dát na sobě znát, že buď se ke svému povolání nehodí, ne
 „Nemá na sobě nic, říká tamhleto dítě, nemá na sobě nic!“
 
 „Vždyť na sobě nic nemá!“ volal konečně všechen lid. To císaře mrzelo, neboť se mu zdálo, že lid má pravdu. Ale pak si myslil: Nyní musím setrvat v průvodu až do konce. I počínal si ještě hrději a komorníci si vykračovali a nesli vlečku, které tu vůbec nebylo.
+
+</section>

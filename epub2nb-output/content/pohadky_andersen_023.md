@@ -3,7 +3,7 @@ title: Uspávač
 contentType: prose
 ---
 
-  
+<section>
 
 Na celém světě nezná nikdo tolik pohádek jako Uspávač. Takhle kvečeru, když děti ještě sedí u stolu nebo na své židličce, přicházívá Uspávač; jde tiše po schodech, jde po špičkách, otevře docela tiše dveře a hop! šup! vstříkne dětem do očí sladkého mléka, docela jemňounkého. Ale děti potom již neudrží oči otevřeny, i nespatří ho. Pak se odplíží za ně, fouká jim za krček a tu jim hlava ztěžkne, ó jak je pak těžká! Ale nebolí to, neboť Uspávač to míní s dětmi docela dobře; on jenom chce, aby se utišily, a ony bývají nejhodnější, když jsou v postýlce. Musí být tiché, aby on mohl vypravovat své pohádky. –
 
@@ -13,7 +13,9 @@ Nyní poslyšte, jak Uspávač celý týden přicházel každého večera k jed
 
 ## Pondělí
 
-  
+</section>
+
+<section>
 
 „Tak se podívej!“ řekl Uspávač večer, když dostal Jeníčka do postýlky. „Teď ti něco krásného ukáži!“
 
@@ -43,7 +45,9 @@ Ale když Uspávač odešel a Jeníček se na ně ráno podíval, byla právě t
 
 ## Úterý
 
-  
+</section>
+
+<section>
 
 Jakmile byl Jeníček v posteli, dotkl se Uspávač svou kouzelnou hůlkou všech kusů nábytku v pokoji a ty hned začaly povídat.
 
@@ -74,7 +78,9 @@ A všichni ptáci zpívali s ní, květiny tančily na stoncích a staré stromy
 
 ## Středa
 
-  
+</section>
+
+<section>
 
 Ne, to vám pršelo! Jeníček to slyšel ve spaní, a když Uspávač otevřel okno, sahala voda až k okenní římse. Venku bylo jediné jezero a překrásná loď stála u samého domku.
 
@@ -116,7 +122,9 @@ Vtom se probudil a ležel na své postýlce. Byla to podivná cesta, na kterou j
 
 ## Čtvrtek
 
-  
+</section>
+
+<section>
 
 „Víš co?“ řekl Uspávač. „Nyní se neboj! Uvidíš malou myšku!“ Ukázal mu svou ruku, v níž držel drobné, roztomilé zvířátko.
 
@@ -152,7 +160,9 @@ A potom jel Jeníček opět domů. Byl ovšem ve vznešené společnosti, ale mu
 
 ## Pátek
 
-  
+</section>
+
+<section>
 
 „Toť až k nevíře, jak mnoho starších lidí by mě rádo chytilo!“ pravil Uspávač. „Jsou to zvláště ti, kteří udělali něco zlého. ‚Dobrý Uspávači,‘ říkají mně, ‚nemůžeme ani oka zamhouřit, a tak ležíme celou noc a vidíme všechny své zlé skutky, které jako oškliví malí skřítci sedí na okraji postele a postřikují nás horkou vodou. Nechtěl bys přijít a odehnat je, abychom mohli dobře spát?‘ A potom vzdychají zhluboka: ‚My bychom to velmi rádi zaplatili; dobrou noc, Uspávači, peníze leží na okně!‘ Ale já to nedělám za peníze,“ řekl Uspávač.
 
@@ -197,7 +207,9 @@ A při tom zůstalo.
 
 ## Sobota
 
-  
+</section>
+
+<section>
 
 „Uslyším nyní pohádky?“ ptal se Jeníček, když jej dostal Uspávač do postýlky.
 
@@ -219,7 +231,9 @@ A potom se Jeníček probudil.
 
 ## Neděle
 
-  
+</section>
+
+<section>
 
 „Dobrý večer!“ řekl Uspávač a Jeníček pozdravil, skočil a obrátil podobiznu pradědečkovu ke zdi, aby nehovořila jako včera.
 
@@ -242,3 +256,5 @@ A Jeníček viděl, jak bratr Uspávač jel a bral mladé i staré lidi k sobě
 A pradědeček měl z toho radost.
 
 Hleďte, to jsou pohádky o Uspávači! A nyní ať vám sám povídá večer víc!
+
+</section>

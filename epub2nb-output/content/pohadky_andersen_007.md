@@ -3,7 +3,7 @@ title: Křesadlo
 contentType: prose
 ---
 
-  
+<section>
 
 Křesadlem kdysi rozdělávali lidé oheň, ještě než byly vynalezeny zápalky. Skládalo se z kamínku, ocelové tyčinky a troudu (hořlavé vlny). Když se kříslo ocelí o kámen, vzlétla jiskra a zapálila troud. O takovém křesadle znám tuto pohádku:
 
@@ -158,3 +158,5 @@ Tu se vojáci lekli a všichni lidé volali: „Vojáčku, buď naším králem 
 Potom usadili vojáka do královského kočáru a všichni tři psi tančili před ním a volali: „Hurá!“ A chlapci hvízdali na prsty a vojáci vzdávali čest. Princezna vyšla z měděného zámku, stala se královnou, a pane, líbilo se jí to.
 
 Svatba trvala osm dní. Psi seděli s ostatními pozvanými za stolem a vyvalovali oči.
+
+</section>
