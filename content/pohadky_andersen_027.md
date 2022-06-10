@@ -3,7 +3,7 @@ title: Ošklivé kačátko
 contentType: prose
 ---
 
-  
+<section>
 
 Bylo tak krásně na venkově! „Vždyť bylo léto! Žito žloutlo, oves se zelenal, seno bylo v kupách na zelené louce a tam si vykračoval čáp na dlouhých, červených nohách a něco si žvatlal po egyptsku; té řeči se naučil od své matky. Kolem dokola vroubily pole a louky veliké lesy a uprostřed lesů byla hluboká jezera.“
 
@@ -208,3 +208,5 @@ Do zahrady vešlo několik malých dětí, které házely do vody chléb a zrní
 To ji uvádělo do rozpaků, i strkala hlavu pod křídla. Byla velmi šťastná, ale naprosto ne pyšná, neboť dobré srdce nikdy nezpyšní. Myslila na to, jak ji pronásledovali a vysmívali se jí, a nyní slyšela všechny tvrdit, že je nejkrásnější ze všech krásných ptáků. A šeřík se k ní skláněl větvemi až do vody a slunce zářilo tak teple a krásně a ona si čechrala peří, štíhlý krk se zvedal a srdce jásalo:
 
 „O tak velkém štěstí se mi ani nesnilo, když jsem byla ošklivým kačátkem!“
+
+</section>

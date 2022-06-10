@@ -3,7 +3,7 @@ title: Pastýřka a kominíček
 contentType: prose
 ---
 
-  
+<section>
 
 Snad jsi již někdy viděl takovou prastarou skříň, úplně zčernalou stářím a s vyřezávanými závity a lupeny. Právě taková stála v jedné světnici. Byla dědictvím po prababičce a byly na ní vyřezány růže a tulipány odshora až dolů. Kromě toho byly na ní přepodivné závity a mezi nimi vyhlížely jelení hlavičky s rozvětvenými parohy. Uprostřed byl na skříni vyřezán celý muž, náramně směšný napohled; šklebil se, ale tak, že to ani nevypadalo, jako by se smál, a na čele mu trčely kozí rohy. Také měl kozí nohy a dlouhý vous.
 
@@ -98,3 +98,5 @@ Dali mu zatmelit záda a do šíje mu dali dobrý nýtek, takže byl jako nový,
 A kominíček a malá pastýřka se dívali s pohnutím na starého Číňana. Báli se tuze, že přikývne, ale on nemohl kývat a nechtělo se mu povídat někomu cizímu, že má nýtek v šíji.
 
 A tak zůstala naše porcelánová dvojice pohromadě. Žehnali dědečkovu nýtku a měli se rádi, dokud se nerozbili.
+
+</section>

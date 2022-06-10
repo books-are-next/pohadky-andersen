@@ -3,7 +3,7 @@ title: Šťastná rodina
 contentType: prose
 ---
 
-  
+<section>
 
 Největší zelený lupen má u nás na venkově rozhodně lopuch. Pověsíš-li si jej na břicho, může ti být docela dobře zástěrou, položíš-li si jej na hlavu, může sloužit za deště jako deštník, neboť je náramně veliký. Lopuch neroste nikdy sám: kde se daří jednomu, vyroste jich víc a je to pak veliká krása.
 
@@ -58,3 +58,5 @@ A déšť bušil do lopuchových lupenů a hezky slimákům bubnoval. A slunce s
 A byli šťastni, oni i celá rodina.
 
 Opravdu, byli šťastni.
+
+</section>

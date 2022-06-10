@@ -3,7 +3,7 @@ title: Hloupý Honza
 contentType: prose
 ---
 
-  
+<section>
 
 Na jednom venkovském starém dvorci hospodařil starý statkář. Měl dva syny tak chytré, že polovina té chytrosti by pro ně byla stačila. Chtěli se ucházet o dceru královu. To také směli, protože princezna dala prohlásit, že si vezme za muže jen toho, kdo s ní bude chytře hovořit, třeba to byl venkovský chasník.
 
@@ -128,3 +128,5 @@ I obrátil kapsy a pleskl mu bahno rovnou do obličeje.
 A tak se stal hloupý Honza králem, dostal ženu a korunu a seděl na trůně. Vyjímal se tam tuze dobře.
 
 My to máme od toho nahluchlého novináře, ale neručíme za to, že se to skutečně takhle všechno stalo.
+
+</section>

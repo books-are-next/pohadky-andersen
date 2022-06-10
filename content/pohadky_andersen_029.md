@@ -3,7 +3,7 @@ title: Kdo skočí nejvýš
 contentType: prose
 ---
 
-  
+<section>
 
 Blešák, luční koník a kozel se chtěli jednou přesvědčit, kdo z nich nejvýše skočí. I pozvali celý svět a každého, kdo se ještě chtěl přijít podívat na tu nádheru a na ty tři znamenité skokany, kteří se tu sešli ve světnici.
 
@@ -42,3 +42,5 @@ Potom šel blešák do cizích služeb a povídá se, že jej tam zabili.
 Koník si sedl do příkopu a přemýšlel, jak to vlastně ve světě chodí, i pravil rovněž: „Klackem je třeba být! Klackem je třeba být!“
 
 A potom si zazpíval svou smutnou písničku, z níž jsme se právě tohle všechno dověděli. Mohla by to být snadno lež, kdyby to nebylo vytištěno.
+
+</section>

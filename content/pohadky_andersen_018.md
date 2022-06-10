@@ -3,7 +3,7 @@ title: Divoké labutě
 contentType: prose
 ---
 
-  
+<section>
 
 Daleko odtud, až kam odlétají vlaštovky, když je u nás zima, bydlel král a ten měl jedenáct synů a jednu dceru, Elišku. Těch jedenáct bratří chodilo do školy s hvězdou na prsou a šavlí po boku; psali na zlaté tabulky diamantovými kamínky, pěkně četli a učili se zpaměti. Sestra Eliška sedala na malé židličce z křišťálového skla a v ruce držela obrázkovou knihu, kterou jí koupili za půl království.
 
@@ -234,3 +234,5 @@ A lid, který spatřil, co se událo, ukláněl se před ní jako před světic�
 „Ano, jest nevinna!“ řekl nejstarší bratr, i vypravoval vše, co se událo. A co takto povídal, šířila se kolem vůně jako z miliónu růží, neboť každé poleno na hranici, na které měla být upálena, zapustilo kořeny a vyhnalo větve. Stálo tu vonné křoví, velmi vysoké a husté, plné růží. Nejvýš byl běloskvoucí květ, který svítil jak hvězda; ten utrhl král a připevnil Elišce na prsa.
 
 Tu se probudila z mrákot s klidem a radostí v duši. A všechny kostelní zvony se samy rozhlaholily a ptáci přilétali ve velkých hejnech. Zpět do zámku vracel se svatební průvod, jaký ještě žádný král nespatřil.
+
+</section>

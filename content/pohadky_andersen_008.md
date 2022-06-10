@@ -3,7 +3,7 @@ title: Slavík
 contentType: prose
 ---
 
-  
+<section>
 
 V Číně, jak asi víte, byl kdysi císař Číňan a všichni jeho dvořané byli rovněž Číňané. Je tomu již mnoho a mnoho let, co se přihodil příběh, který budu vypravovat, ale právě proto stojí za poslechnutí, než se na něj úplně zapomene.
 
@@ -194,3 +194,5 @@ Nato slavík odletěl.
 Služebníci vešli, aby se podívali na svého mrtvého císaře. – Podivili se, když jim císař pravil:
 
 „Dobré jitro!“
+
+</section>

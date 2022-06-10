@@ -3,7 +3,7 @@ title: Statečný cínový vojáček
 contentType: prose
 ---
 
-  
+<section>
 
 Bylo jednou dvacet pět cínových vojáčků. Všichni byli bratři, neboť byli uliti z jedné staré lžíce. Zbraň drželi v ruce, hlavu čelem vpřed; stejnokroj měli červený a modrý, inu, náramně krásný.
 
@@ -85,3 +85,5 @@ Náhle uchopil vojáčka jeden z chlapců a hodil jej rovnou do kamen, ačkoli k
 Cínový vojáček stál jasně osvětlen a cítil strašlivé horko. Ale zdali to bylo opravdovým ohněm, či láskou, to nevěděl. Barvy z něho pustily nadobro; zdali se mu to stalo na cestě či zda to způsobila bolest, také nikdo nedovedl říci. Díval se na malou panenku, ona se dívala na něj a on cítil, že se roztavuje. Ale ještě stál statečně se zbraní v ruce.
 
 Vtom se otevřely dveře, průvan sebral tanečnici a ona vlétla jako motýl rovnou do kamen k cínovému vojáčkovi. Vznítila se plápolem a zmizela. Potom se roztavil cínový vojáček v kousek cínu, a když služebná druhého dne vymetala popel, našla ho jako malé cínové srdéčko. Z tanečnice zbyla jenom hvězda, ale ta byla spálená na černý oharek.
+
+</section>

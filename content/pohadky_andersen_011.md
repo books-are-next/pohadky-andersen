@@ -3,7 +3,7 @@ title: Smrček
 contentType: prose
 ---
 
-  
+<section>
 
 V lese stál hezounký smrček. Měl pěkné místo, slunce ho ozařovalo, vzduchu tam bylo dost a kolem dokola rostlo mnoho jeho velkých družek, jedlí a sosen.
 
@@ -188,3 +188,5 @@ A potom náš strom dohořel.
 Děti si hrály na zahradě a nejmenší mělo na prsou zlatou hvězdu, kterou se pyšnil strom ve svůj nejšťastnější večer. Ten však již minul a strom zahynul – a pohádky je konec.
 
 Konec, konec – neboť každá pohádka má svůj konec.
+
+</section>

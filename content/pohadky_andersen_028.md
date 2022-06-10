@@ -3,7 +3,7 @@ title: Stříbrňák
 contentType: prose
 ---
 
-  
+<section>
 
 Byl jednou jeden peníz; vyšel lesklý z mincovny, poskakoval si a zpíval: „Sláva! Teď půjdu do širého světa!“
 
@@ -82,3 +82,5 @@ Zabalili mne do jemného, bílého papíru, abych se nevmísil mezi ostatní pen
 A jenom při slavnostních příležitostech, když se muž setkal s krajany, byl jsem vyndán a velmi dobře o mně hovořili. Říkali, že jsem zábavný. Je zajímavé, že můžeš být zábavný, aniž jsi řekl jediné slovo.
 
 A pak jsem se dostal domů. Veškerá moje bída pominula, doba radosti začala; vždyť jsem byl z dobrého stříbra, měl jsem pravé ražení a nijak mě nermoutilo, že do mne vyrazili otvor, jako bych byl falešný; to nevadí, nejsi-li takový. Musíš vydržet! Všechno přijde časem k svému právu! Tomu pevně věřím,“ řekl stříbrný peníz.
+
+</section>

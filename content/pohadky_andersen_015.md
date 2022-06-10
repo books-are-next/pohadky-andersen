@@ -3,7 +3,7 @@ title: Dva přátelé
 contentType: prose
 ---
 
-  
+<section>
 
 Ubohý Jan byl velmi zarmoucen. Jeho otec těžce stonal a nebylo mu pomoci. V malé světničce byli jen oni dva. Bylo hodně pozdě večer a lampa na stole dohořívala.
 
@@ -267,3 +267,5 @@ A v témž okamžiku zmizel.
 Svatba trvala celý měsíc. Jan a princezna se měli velice rádi a starý král žil šťastný ještě dlouho a houpal jejich malé dětičky na kolenou a nechal je hrát si s žezlem. Jan se stal králem celé říše.
 
 Byl šťasten. Ne proto, že byl králem, ale že byl dobrý, jak to svému umírajícímu otci slíbil.
+
+</section>

@@ -3,7 +3,7 @@ title: Pět hrášků v jednom lusku
 contentType: prose
 ---
 
-  
+<section>
 
 Bylo pět hrášků v jednom lusku; byly zelené a i lusk byl zelený, i myslily si, že celý svět je zelený, a to bylo docela správné! Lusk rostl a hrášky rostly a zařizovaly si obydlí podle svého; seděly v jedné řadě.
 
@@ -72,3 +72,5 @@ Ale nyní k ostatním hráškům! – Ano, ten, který vylétl do širého svě
 A strouha s tím projevila souhlas.
 
 Ale u podkrovního okna stála mladá dívka se zářícíma očima, s leskem zdraví na lících, a spínajíc ruce nad hrachovým květem, děkovala za něj Pánubohu.
+
+</section>
