@@ -24,7 +24,7 @@ Mariánské nám. 1, 115 72 Praha 1
 </section>  
 <section>  
 </section>  
-1. vydání z 10. 6. 2022.
+1. vydání z 11. 6. 2022.
 
 ***
 
@@ -58,7 +58,7 @@ Citační záznam této e-knihy:
 
 <section>
 
-ANDERSEN, Hans Christian. _Pohádky_ \[online\]. Přel. Gustav PALLAS.  Praha: Městská knihovna v Praze, 2017 \[cit. 10. 6. 2022]. ISBN 978-80-7532-698-0 (epub). Dostupné z:
+ANDERSEN, Hans Christian. _Pohádky_ \[online\]. Přel. Gustav PALLAS.  Praha: Městská knihovna v Praze, 2017 \[cit. 11. 6. 2022]. ISBN 978-80-7532-698-0 (epub). Dostupné z:
 
 </section>
 
