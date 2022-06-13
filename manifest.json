@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "andersen-pohadky-bf2ee1e",
-  "revision": "bf2ee1e",
+  "identifier": "andersen-pohadky-bd26ee7",
+  "revision": "bd26ee7",
   "readingOrder": [
     "promo.html",
     "pohadky_andersen_005.html",
@@ -44,8 +44,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:09:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949351982
+    "date": "Mon Jun 13 2022 21:57:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157432435
   },
   "documents": [
     {
@@ -743,9 +743,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 82,
-      "chars": 647,
-      "ideas": 8,
+      "words": 141,
+      "chars": 1022,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "pohadky_andersen_033.html",
@@ -763,9 +763,9 @@
   ],
   "totals": {
     "all": {
-      "words": 66385,
-      "chars": 383879,
-      "ideas": 2103
+      "words": 66444,
+      "chars": 384254,
+      "ideas": 2111
     },
     "chapters": {
       "words": 66297,
