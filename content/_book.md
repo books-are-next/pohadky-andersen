@@ -44,7 +44,7 @@ readingOrder:
   - pohadky_andersen_031.html
   - pohadky_andersen_032.html
   - pohadky_andersen_033.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
