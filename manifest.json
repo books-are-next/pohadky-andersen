@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "andersen-pohadky-f703bcb",
-  "revision": "f703bcb",
+  "identifier": "andersen-pohadky-2571acc",
+  "revision": "2571acc",
   "readingOrder": [
     "promo.html",
     "pohadky_andersen_005.html",
@@ -41,11 +41,11 @@
     "pohadky_andersen_031.html",
     "pohadky_andersen_032.html",
     "pohadky_andersen_033.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:21:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979671939
+    "date": "Thu Jul 07 2022 08:36:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182983167
   },
   "documents": [
     {
@@ -154,7 +154,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pastýřka a kominíček",
+          "name": "Pastýřka a kominíček",
           "id": null,
           "children": []
         }
@@ -594,7 +594,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "O princezně na hrášku",
+          "name": "O princezně na hrášku",
           "id": null,
           "children": []
         }
@@ -674,7 +674,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pět hrášků v jednom lusku",
+          "name": "Pět hrášků v jednom lusku",
           "id": null,
           "children": []
         }
@@ -729,7 +729,7 @@
       "role": "chapter",
       "order": 29,
       "prev": "pohadky_andersen_032.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -742,11 +742,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 169,
-      "chars": 1200,
+      "chars": 1197,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "pohadky_andersen_033.html",
       "next": null,
@@ -764,7 +764,7 @@
   "totals": {
     "all": {
       "words": 66472,
-      "chars": 384432,
+      "chars": 384429,
       "ideas": 2112
     },
     "chapters": {
