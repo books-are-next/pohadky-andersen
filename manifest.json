@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "andersen-pohadky-bb5014d",
-  "revision": "bb5014d",
+  "identifier": "andersen-pohadky-d582da1",
+  "revision": "d582da1",
   "readingOrder": [
     "promo.html",
     "pohadky_andersen_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:34:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414040326
+    "date": "Thu Sep 29 2022 21:32:07 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487127865
   },
   "documents": [
     {
@@ -164,7 +164,7 @@
       "title": "Sněhová královna",
       "file": "pohadky_andersen_010.html",
       "words": 9313,
-      "chars": 53459,
+      "chars": 53462,
       "ideas": 316,
       "role": "chapter",
       "order": 6,
@@ -254,7 +254,7 @@
       "title": "Starý dům",
       "file": "pohadky_andersen_012.html",
       "words": 2193,
-      "chars": 12796,
+      "chars": 12797,
       "ideas": 64,
       "role": "chapter",
       "order": 8,
@@ -354,7 +354,7 @@
       "title": "Bezová matička",
       "file": "pohadky_andersen_017.html",
       "words": 2394,
-      "chars": 13656,
+      "chars": 13659,
       "ideas": 60,
       "role": "chapter",
       "order": 13,
@@ -454,7 +454,7 @@
       "title": "Ropucha",
       "file": "pohadky_andersen_022.html",
       "words": 2039,
-      "chars": 11652,
+      "chars": 11654,
       "ideas": 75,
       "role": "chapter",
       "order": 18,
@@ -724,7 +724,7 @@
       "title": "Poznámky pod čarou",
       "file": "pohadky_andersen_033.html",
       "words": 88,
-      "chars": 507,
+      "chars": 516,
       "ideas": 10,
       "role": "chapter",
       "order": 29,
@@ -764,12 +764,12 @@
   "totals": {
     "all": {
       "words": 66472,
-      "chars": 384432,
+      "chars": 384450,
       "ideas": 2112
     },
     "chapters": {
       "words": 66297,
-      "chars": 383191,
+      "chars": 383209,
       "ideas": 2091
     }
   }

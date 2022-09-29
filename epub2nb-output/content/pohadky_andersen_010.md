@@ -221,7 +221,7 @@ Ale každá květinka snila v slunečním svitu svou vlastní pohádku. Gerda ji
 
 Co asi povídala zlatá lilie?
 
-„Slyš buben: Bum! Bum! Jenom dva zvuky, stále jenom: Bum! Slyš smuteční zpěv žen! Slyš volání knězovo! – Ve své dlouhé, červené říze stojí hindská[\[1\]](./resources/undefined) žena na hranici, plameny šlehají kolem ní a jejího mrtvého muže. Zdali plamen srdce zhyne v plameni hranice?“
+„Slyš buben: Bum! Bum! Jenom dva zvuky, stále jenom: Bum! Slyš smuteční zpěv žen! Slyš volání knězovo! – Ve své dlouhé, červené říze stojí hindská[^1] žena na hranici, plameny šlehají kolem ní a jejího mrtvého muže. Zdali plamen srdce zhyne v plameni hranice?“
 
 „Tomuhle já vůbec nerozumím!“ řekla malá Gerda.
 
@@ -590,7 +590,7 @@ Ale on to nedovedl.
 
 „Nyní odletím do teplých zemí,“ řekla Sněhová královna. „Chci se tam podívat do černých kotlů.“
 
-Těmi kotli myslila hory chrlící oheň, sopky Etnu[\[2\]](./resources/undefined) a Vesuv[\[3\]](./resources/undefined), jak my jim říkáme.
+Těmi kotli myslila hory chrlící oheň, sopky Etnu[^2] a Vesuv[^3], jak my jim říkáme.
 
 „Trochu je pobělím,“ pravila, „neboť to dělá dobře citrónům a vinné révě.“
 
