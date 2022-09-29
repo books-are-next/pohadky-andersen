@@ -115,7 +115,7 @@ Ve statku bydlili dva mladí studenti. Jeden byl básník, druhý přírodozpyte
 
 „Drahokam!“ zvolal jeho přítel. „Ty se vyznáš v přírodopise!“
 
-„Ale což není právě krásná víra lidská, že ropucha, nejošklivější zvíře, často má v hlavě nejcennější drahokam? Nemá-li se to s lidmi právě tak? A neměli takový drahokam Ezop[\[8\]](./resources/undefined) a Sokrates[\[9\]](./resources/undefined), nejmoudřejší lidé starých dob, třeba byli tělesně oškliví?“
+„Ale což není právě krásná víra lidská, že ropucha, nejošklivější zvíře, často má v hlavě nejcennější drahokam? Nemá-li se to s lidmi právě tak? A neměli takový drahokam Ezop[^8] a Sokrates[^9], nejmoudřejší lidé starých dob, třeba byli tělesně oškliví?“
 
 Víc ropucha neslyšela a nerozuměla z toho ani polovině. Oba přátelé odešli a ona se zachránila před naložením do lihu.
 

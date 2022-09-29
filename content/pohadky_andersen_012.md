@@ -13,7 +13,7 @@ Naproti starému domu v téže ulici stály rovněž nové a pěkné domy a smý
 
 Dům stál věru za podívanou.
 
-Nahoře v něm bydlil starý muž, který nosil ještě staromódní brslenky[\[4\]](./resources/undefined), kabát s velkými mosaznými knoflíky a paruku, opravdivou paruku, jak bylo vidět. Každého jitra přicházel k němu jiný starý muž, uklízel mu a vařil; ostatní čas býval staroch v brslenkách docela sám ve starém domě. Občas přistupoval k oknu a díval se ven, a tu na něj chlapeček kýval a starý muž mu odpovídal rovněž kývnutím. Tak se spolu seznámili a stali se i přáteli, třebaže spolu nikdy nehovořili.
+Nahoře v něm bydlil starý muž, který nosil ještě staromódní brslenky[^4], kabát s velkými mosaznými knoflíky a paruku, opravdivou paruku, jak bylo vidět. Každého jitra přicházel k němu jiný starý muž, uklízel mu a vařil; ostatní čas býval staroch v brslenkách docela sám ve starém domě. Občas přistupoval k oknu a díval se ven, a tu na něj chlapeček kýval a starý muž mu odpovídal rovněž kývnutím. Tak se spolu seznámili a stali se i přáteli, třebaže spolu nikdy nehovořili.
 
 Chlapeček slýchal své rodiče říkat:
 
