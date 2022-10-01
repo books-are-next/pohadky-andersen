@@ -314,3 +314,21 @@ Neviditelná políbila čelo ženichovo, usmívala se na něj a vystoupila s os
 „Ještě dříve se tam můžeme dostat!“ šeptala jedna. „Nepozorovaně vnikneme do lidského obydlí, kde jsou děti. Za každý den, ve kterém najdeme dobré dítě, jež dělá svým rodičům radost a zaslouží si jejich lásky, zkrátí Bůh naši zkušební dobu. Dítě neví, kdy se vznášíme ve světnici, a když se radostí nad ním usmějeme, tu se odečte jeden rok z oněch tří set. Ale spatříme-li nezpůsobné a zlé dítě, tu musíme ronit slzy žalu a každá slza prodlužuje naši zkušební dobu o den!“
 
 </section>
+
+[^1]: _hindská_ – indická
+
+[^2]: _Etna_ – sopka na Sicílii
+
+[^3]: _Vesuv_ – sopka v jižní Itálii, nedaleko města Neapole
+
+[^4]: _brslenky_ – kožené selské kalhoty
+
+[^5]: _dryády_ – sluly ve starověkém bájesloví víly, jejichž život úzce souvisel se životem stromů
+
+[^6]: _Frederigsberg_ je předměstí Kodaně; vyniká výstavností
+
+[^7]: _červená vlajka s bílým křížem_ – vlajka království dánského
+
+[^8]: _Ezop_ – nejproslulejší skladatel bajek, Řek, který žil v 6. stol. před n. l.
+
+[^9]: _Sokrates_ – slavný řecký filozof z 5. stol. před n. l.

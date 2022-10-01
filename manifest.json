@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "andersen-pohadky-d582da1",
-  "revision": "d582da1",
+  "identifier": "andersen-pohadky-5f3a132",
+  "revision": "5f3a132",
   "readingOrder": [
     "promo.html",
     "pohadky_andersen_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:32:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487127865
+    "date": "Sat Oct 01 2022 16:02:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640126273
   },
   "documents": [
     {
@@ -163,9 +163,9 @@
     {
       "title": "Sněhová královna",
       "file": "pohadky_andersen_010.html",
-      "words": 9313,
-      "chars": 53462,
-      "ideas": 316,
+      "words": 9333,
+      "chars": 53554,
+      "ideas": 319,
       "role": "chapter",
       "order": 6,
       "prev": "pohadky_andersen_009.html",
@@ -253,9 +253,9 @@
     {
       "title": "Starý dům",
       "file": "pohadky_andersen_012.html",
-      "words": 2193,
-      "chars": 12797,
-      "ideas": 64,
+      "words": 2199,
+      "chars": 12829,
+      "ideas": 65,
       "role": "chapter",
       "order": 8,
       "prev": "pohadky_andersen_011.html",
@@ -353,9 +353,9 @@
     {
       "title": "Bezová matička",
       "file": "pohadky_andersen_017.html",
-      "words": 2394,
-      "chars": 13659,
-      "ideas": 60,
+      "words": 2426,
+      "chars": 13860,
+      "ideas": 63,
       "role": "chapter",
       "order": 13,
       "prev": "pohadky_andersen_016.html",
@@ -453,9 +453,9 @@
     {
       "title": "Ropucha",
       "file": "pohadky_andersen_022.html",
-      "words": 2039,
-      "chars": 11654,
-      "ideas": 75,
+      "words": 2066,
+      "chars": 11782,
+      "ideas": 77,
       "role": "chapter",
       "order": 18,
       "prev": "pohadky_andersen_021.html",
@@ -723,9 +723,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "pohadky_andersen_033.html",
-      "words": 88,
-      "chars": 516,
-      "ideas": 10,
+      "words": 173,
+      "chars": 969,
+      "ideas": 19,
       "role": "chapter",
       "order": 29,
       "prev": "pohadky_andersen_032.html",
@@ -743,9 +743,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 169,
-      "chars": 1200,
-      "ideas": 17,
+      "words": 160,
+      "chars": 1157,
+      "ideas": 16,
       "role": "about",
       "order": null,
       "prev": "pohadky_andersen_033.html",
@@ -763,14 +763,14 @@
   ],
   "totals": {
     "all": {
-      "words": 66472,
-      "chars": 384450,
-      "ideas": 2112
+      "words": 66633,
+      "chars": 385313,
+      "ideas": 2129
     },
     "chapters": {
-      "words": 66297,
-      "chars": 383209,
-      "ideas": 2091
+      "words": 66467,
+      "chars": 384115,
+      "ideas": 2109
     }
   }
 }

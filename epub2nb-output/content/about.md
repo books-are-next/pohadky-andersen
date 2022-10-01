@@ -8,7 +8,16 @@ Edice E-knihovna
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 29. 9. 2022.
+[^1]: _hindská_ – indická  
+[^2]: _Etna_ – sopka na Sicílii  
+[^3]: _Vesuv_ – sopka v jižní Itálii, nedaleko města Neapole  
+[^4]: _brslenky_ – kožené selské kalhoty  
+[^5]: _dryády_ – sluly ve starověkém bájesloví víly, jejichž život úzce souvisel se životem stromů  
+[^6]: _Frederigsberg_ je předměstí Kodaně; vyniká výstavností  
+[^7]: _červená vlajka s bílým křížem_ – vlajka království dánského  
+[^8]: _Ezop_ – nejproslulejší skladatel bajek, Řek, který žil v 6. stol. před n. l.  
+[^9]: _Sokrates_ – slavný řecký filozof z 5. stol. před n. l.  
+V MKP 2. elektronické vydání z 1. 10. 2022.
 
 ***
 
@@ -26,7 +35,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Citační záznam této e-knihy:
 
-ANDERSEN, Hans Christian. _Pohádky_ \[online\]. Přel. Gustav PALLAS. V MKP 2. elektronické vydání z 29. 9. 2022. Praha: Městská knihovna v Praze, 2017 \[cit. 29. 9. 2022]. ISBN 978-80-7532-698-0 (epub). Dostupné z:
+ANDERSEN, Hans Christian. _Pohádky_ \[online\]. Přel. Gustav PALLAS. V MKP 2. elektronické vydání z 1. 10. 2022. Praha: Městská knihovna v Praze, 2017 \[cit. 1. 10. 2022]. ISBN 978-80-7532-698-0 (epub). Dostupné z:
 
 [http://web2.mlp.cz/koweb/00/04/32/54/53/pohadky\_andersen.epub](http://web2.mlp.cz/koweb/00/04/32/54/53/pohadky_andersen.epub).
 
