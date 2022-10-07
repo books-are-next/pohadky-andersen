@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "andersen-pohadky-32e0d9a",
-  "revision": "32e0d9a",
+  "identifier": "andersen-pohadky-0f1ae5f",
+  "revision": "0f1ae5f",
   "readingOrder": [
     "promo.html",
     "pohadky_andersen_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:01:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924515265
+    "date": "Fri Oct 07 2022 14:07:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151671585
   },
   "documents": [
     {
